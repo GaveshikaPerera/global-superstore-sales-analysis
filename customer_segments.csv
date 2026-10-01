@@ -1,0 +1,1591 @@
+customer_id,customer_name,customer_type,recency,frequency,monetary,profit,r_score,f_score,m_score,rfm_score,rfm_segment
+AA-10315,Alex Avila,Consumer,9,19,13747.42,447.7,5,3,4,12,Loyal
+AA-10375,Allen Armold,Consumer,7,23,5884.18,677.4899999999999,5,4,3,12,Champions
+AA-10480,Andrew Allen,Consumer,126,20,17695.6,1516.48,1,3,5,9,At Risk
+AA-10645,Anna Andreadi,Consumer,29,36,15343.88,3051.44,3,5,5,13,Loyal
+AA-315,Alex Avila,Consumer,3,7,2243.25,535.56,5,2,2,9,Promising
+AA-375,Allen Armold,Consumer,254,8,654.49,77.44,1,2,1,4,Lost
+AA-480,Andrew Allen,Consumer,315,5,2063.4900000000002,554.61,1,1,2,4,Lost
+AA-645,Anna Andreadi,Consumer,52,11,1968.33,-608.34,2,3,2,7,At Risk
+AB-10015,Aaron Bergman,Consumer,17,32,20037.52,3719.5099999999998,4,5,5,14,Champions
+AB-10060,Adam Bellavance,Home Office,43,32,18416.56,4514.07,3,5,5,13,Loyal
+AB-10105,Adrian Barton,Consumer,28,33,22966.76,6912.59,3,5,5,13,Loyal
+AB-10150,Aimee Bixby,Consumer,36,24,13057.31,2064.23,3,4,4,11,Loyal
+AB-10165,Alan Barnes,Consumer,14,29,11649.28,2329.47,4,5,4,13,Champions
+AB-10255,Alejandro Ballentine,Home Office,6,31,10786.72,-43.23999999999997,5,5,4,14,Champions
+AB-105,Adrian Barton,Consumer,44,7,2156.4,-495.33,3,2,2,7,Needs Attention
+AB-10600,Ann Blume,Corporate,51,22,13318.66,905.37,2,3,4,9,At Risk
+AB-15,Aaron Bergman,Consumer,413,5,4607.13,963.7199999999999,1,1,3,5,Lost
+AB-150,Aimee Bixby,Consumer,399,4,3143.88,862.1400000000001,1,1,2,4,Lost
+AB-165,Alan Barnes,Consumer,17,6,1399.77,106.59,4,1,2,7,Promising
+AB-255,Alejandro Ballentine,Home Office,44,8,4679.5,801.85,3,2,3,8,Needs Attention
+AB-60,Adam Bellavance,Home Office,36,9,1770.23,465.92,3,3,2,8,Loyal
+AB-600,Ann Blume,Corporate,8,5,5408.55,964.65,5,1,3,9,Promising
+AC-10420,Alyssa Crouse,Corporate,7,24,10607.7,206.49,5,4,4,13,Champions
+AC-10450,Amy Cox,Consumer,6,19,16126.4,4105.61,5,3,5,13,Loyal
+AC-10615,Ann Chong,Corporate,7,29,12729.74,1160.68,5,5,4,14,Champions
+AC-10660,Anna Chung,Consumer,3,21,6255.6,-999.01,5,3,3,11,Loyal
+AC-420,Alyssa Crouse,Corporate,14,9,1689.67,237.55,4,3,2,9,Loyal
+AC-450,Amy Cox,Consumer,182,7,1026.6,-125.19000000000003,1,2,1,4,Lost
+AC-615,Ann Chong,Corporate,93,7,2298.43,-280.54999999999995,2,2,2,6,Lost
+AC-660,Anna Chung,Consumer,120,4,2676.09,726.87,2,1,2,5,Lost
+AD-10180,Alan Dominguez,Home Office,30,27,17858.48,2050.72,3,4,5,12,Loyal
+AD-180,Alan Dominguez,Home Office,6,3,681.27,-510.78000000000003,5,1,1,7,Promising
+AF-10870,Art Ferguson,Consumer,7,36,26487.25,1736.03,5,5,5,15,Champions
+AF-10885,Art Foster,Consumer,54,35,19711.16,2882.91,2,5,5,12,At Risk
+AF-870,Art Ferguson,Consumer,6,9,1700.08,542.23,5,3,2,10,Loyal
+AF-885,Art Foster,Consumer,168,2,354.99,88.32,1,1,1,3,Lost
+AG-10270,Alejandro Grove,Consumer,41,25,10637.41,2152.0099999999998,3,4,4,11,Loyal
+AG-10300,Aleksandra Gannaway,Corporate,3,24,13013.880000000001,1845.76,5,4,4,13,Champions
+AG-10330,Alex Grayson,Consumer,9,29,14534.52,929.4800000000001,5,5,5,15,Champions
+AG-10390,Allen Goldenen,Consumer,115,19,8452.99,995.7199999999999,2,3,3,8,At Risk
+AG-10495,Andrew Gjertsen,Corporate,79,29,15380.32,2749.09,2,5,5,12,At Risk
+AG-10525,Andy Gerbode,Corporate,13,20,8468.97,36.05000000000001,4,3,3,10,Loyal
+AG-10675,Anna Gayman,Consumer,48,21,13023.84,680.81,3,3,4,10,Loyal
+AG-10765,Anthony Garverick,Home Office,29,27,9824.78,1250.5900000000001,3,4,4,11,Loyal
+AG-10900,Arthur Gainer,Consumer,58,29,18174.15,1879.75,2,5,5,12,At Risk
+AG-270,Alejandro Grove,Consumer,14,8,2779.7999999999997,450.57,4,2,2,8,Promising
+AG-300,Aleksandra Gannaway,Corporate,99,6,1703.32,-1072.6100000000001,2,1,2,5,Lost
+AG-330,Alex Grayson,Consumer,3,7,532.54,77.5,5,2,1,8,Promising
+AG-390,Allen Goldenen,Consumer,113,4,473.11,-548.48,2,1,1,4,Lost
+AG-495,Andrew Gjertsen,Corporate,49,11,1003.98,-106.86,3,3,1,7,Loyal
+AG-525,Andy Gerbode,Corporate,16,7,2870.67,133.35999999999999,4,2,2,8,Promising
+AG-675,Anna Gayman,Consumer,174,10,2368.13,242.27000000000004,1,3,2,6,At Risk
+AG-765,Anthony Garverick,Home Office,115,8,1859.53,-1075.28,2,2,2,6,Lost
+AG-900,Arthur Gainer,Consumer,24,4,1699.46,-146.53000000000003,4,1,2,7,Promising
+AH-10030,Aaron Hawkins,Corporate,13,27,14439.5,2601.43,4,4,5,13,Champions
+AH-10075,Adam Hart,Corporate,3,34,18109.9,986.08,5,5,5,15,Champions
+AH-10120,Adrian Hane,Home Office,61,22,9927.86,1705.17,2,3,4,9,At Risk
+AH-10195,Alan Haines,Corporate,50,25,12628.18,158.91,2,4,4,10,At Risk
+AH-10210,Alan Hwang,Consumer,7,34,20365.76,4139.68,5,5,5,15,Champions
+AH-10465,Amy Hunt,Consumer,71,20,8547.84,611.88,2,3,3,8,At Risk
+AH-10585,Angele Hood,Consumer,22,22,9125.87,1458.35,4,3,3,10,Loyal
+AH-10690,Anna Häberlin,Corporate,31,31,16276.16,2795.81,3,5,5,13,Loyal
+AH-120,Adrian Hane,Home Office,22,4,1478.08,376.24,4,1,2,7,Promising
+AH-195,Alan Haines,Corporate,279,9,2651.55,-751.1700000000001,1,3,2,6,At Risk
+AH-210,Alan Hwang,Consumer,458,4,3277.11,202.71,1,1,3,5,Lost
+AH-30,Aaron Hawkins,Corporate,469,7,6320.02,-150.49999999999991,1,2,3,6,Lost
+AH-465,Amy Hunt,Consumer,242,4,650.83,106.45,1,1,1,3,Lost
+AH-585,Angele Hood,Consumer,76,9,2232.23,151.72999999999996,2,3,2,7,At Risk
+AH-690,Anna Häberlin,Corporate,59,5,1817.9,-329.83000000000004,2,1,2,5,Lost
+AH-75,Adam Hart,Corporate,38,8,3608.34,915.99,3,2,3,8,Needs Attention
+AI-10855,Arianne Irving,Consumer,14,22,8358.59,1612.75,4,3,3,10,Loyal
+AI-855,Arianne Irving,Consumer,204,4,919.98,-74.58,1,1,1,3,Lost
+AJ-10780,Anthony Jacobs,Corporate,49,25,15186.07,1784.25,3,4,5,12,Loyal
+AJ-10795,Anthony Johnson,Corporate,63,22,8887.08,1861.1,2,3,3,8,At Risk
+AJ-10945,Ashley Jarboe,Consumer,29,29,11087.02,1567.6299999999999,3,5,4,12,Loyal
+AJ-10960,Astrea Jones,Consumer,49,17,8633.59,1518.66,3,3,3,9,Loyal
+AJ-780,Anthony Jacobs,Corporate,2,12,2570.98,-612.0,5,3,2,10,Loyal
+AJ-795,Anthony Johnson,Corporate,37,10,3395.58,617.49,3,3,3,9,Loyal
+AJ-945,Ashley Jarboe,Consumer,105,7,4860.92,1439.06,2,2,3,7,Lost
+AJ-960,Astrea Jones,Consumer,295,10,4629.16,1012.6899999999999,1,3,3,7,At Risk
+AM-10360,Alice McCarthy,Corporate,16,33,16730.32,2748.46,4,5,5,14,Champions
+AM-10705,Anne McFarland,Consumer,26,30,24218.54,2728.63,4,5,5,14,Champions
+AM-360,Alice McCarthy,Corporate,176,6,2035.83,229.38,1,2,2,5,Lost
+AM-705,Anne McFarland,Consumer,137,6,1303.77,509.94,1,2,1,4,Lost
+AO-10810,Anthony O'Donnell,Corporate,37,27,14537.82,1028.42,3,4,5,12,Loyal
+AO-810,Anthony O'Donnell,Corporate,8,5,485.0,64.69999999999999,5,1,1,7,Promising
+AP-10720,Anne Pryor,Home Office,42,20,15362.06,2937.48,3,3,5,11,Loyal
+AP-10915,Arthur Prichep,Consumer,77,32,15877.869999999999,2420.11,2,5,5,12,At Risk
+AP-720,Anne Pryor,Home Office,38,6,999.6999999999999,55.300000000000004,3,2,1,6,Needs Attention
+AP-915,Arthur Prichep,Consumer,93,5,2668.08,717.51,2,1,2,5,Lost
+AR-10345,Alex Russell,Corporate,30,26,14165.78,1683.8999999999999,3,4,4,11,Loyal
+AR-10405,Allen Rosenblatt,Corporate,55,22,8956.81,-583.48,2,3,3,8,At Risk
+AR-10510,Andrew Roberts,Consumer,15,29,14277.9,3518.9500000000003,4,5,5,14,Champions
+AR-10540,Andy Reiter,Consumer,7,15,7983.95,3050.8999999999996,5,3,3,11,Loyal
+AR-10570,Anemone Ratner,Consumer,3,18,9445.66,1584.85,5,3,3,11,Loyal
+AR-10825,Anthony Rawles,Corporate,23,38,15311.04,2828.11,4,5,5,14,Champions
+AR-345,Alex Russell,Corporate,142,9,2301.07,606.73,1,3,2,6,At Risk
+AR-405,Allen Rosenblatt,Corporate,223,6,571.11,31.200000000000003,1,2,1,4,Lost
+AR-510,Andrew Roberts,Consumer,105,10,2638.64,42.79999999999998,2,3,2,7,At Risk
+AR-540,Andy Reiter,Consumer,222,8,561.59,88.16,1,2,1,4,Lost
+AR-570,Anemone Ratner,Consumer,71,9,2044.28,409.82,2,3,2,7,At Risk
+AR-825,Anthony Rawles,Corporate,34,7,2028.8999999999999,289.53,3,2,2,7,Needs Attention
+AS-10045,Aaron Smayling,Corporate,24,28,12596.289999999999,660.9,4,5,4,13,Champions
+AS-10090,Adam Shillingsburg,Consumer,16,32,15009.45,1344.93,4,5,5,14,Champions
+AS-10135,Adrian Shami,Home Office,42,19,7307.24,750.28,3,3,3,9,Loyal
+AS-10225,Alan Schoenberger,Corporate,13,28,21366.9,2718.66,4,5,5,14,Champions
+AS-10240,Alan Shonely,Consumer,13,31,9006.68,630.39,4,5,3,12,Champions
+AS-10285,Alejandro Savely,Corporate,19,30,16179.86,1794.8600000000001,4,5,5,14,Champions
+AS-10630,Ann Steele,Home Office,36,19,9815.94,3194.3399999999997,3,3,3,9,Loyal
+AS-135,Adrian Shami,Home Office,93,5,3978.81,814.1999999999999,2,1,3,6,Lost
+AS-225,Alan Schoenberger,Corporate,3,7,469.51,-215.03000000000003,5,2,1,8,Promising
+AS-240,Alan Shonely,Consumer,499,5,1686.51,545.07,1,1,2,4,Lost
+AS-285,Alejandro Savely,Corporate,100,13,4938.46,738.6999999999999,2,3,3,8,At Risk
+AS-45,Aaron Smayling,Corporate,234,3,1616.33,-291.76,1,1,2,4,Lost
+AS-630,Ann Steele,Home Office,34,11,2000.01,-1103.31,3,3,2,8,Loyal
+AS-90,Adam Shillingsburg,Consumer,22,4,435.2,76.31,4,1,1,6,Promising
+AT-10435,Alyssa Tate,Home Office,13,24,13654.300000000001,3016.8900000000003,4,4,4,12,Champions
+AT-10735,Annie Thurman,Consumer,3,29,12984.11,2516.72,5,5,4,14,Champions
+AT-435,Alyssa Tate,Home Office,29,12,1288.0,-221.35999999999999,3,3,1,7,Loyal
+AT-735,Annie Thurman,Consumer,70,5,403.65000000000003,143.07,2,1,1,4,Lost
+AW-10840,Anthony Witt,Consumer,17,25,13200.23,1444.8200000000002,4,4,4,12,Champions
+AW-10930,Arthur Wiediger,Home Office,36,22,10230.93,2585.88,3,3,4,10,Loyal
+AW-840,Anthony Witt,Consumer,57,7,1947.01,-228.41,2,2,2,6,Lost
+AW-930,Arthur Wiediger,Home Office,38,6,782.0600000000001,95.08999999999999,3,2,1,6,Needs Attention
+AY-10555,Andy Yotov,Corporate,15,16,5446.62,1850.51,4,3,3,10,Loyal
+AY-555,Andy Yotov,Corporate,36,11,3096.42,440.46000000000004,3,3,2,8,Loyal
+AZ-10750,Annie Zypern,Consumer,71,18,9639.81,1606.57,2,3,3,8,At Risk
+AZ-750,Annie Zypern,Consumer,27,10,2231.29,-682.19,4,3,2,9,Loyal
+BB-10990,Barry Blumstein,Corporate,15,30,9064.53,177.06000000000003,4,5,3,12,Champions
+BB-11545,Brenda Bowman,Corporate,29,26,15797.58,1686.65,3,4,5,12,Loyal
+BB-1545,Brenda Bowman,Corporate,50,5,207.23000000000002,52.19,2,1,1,4,Lost
+BB-990,Barry Blumstein,Corporate,51,7,822.29,122.36,2,2,1,5,Lost
+BC-11125,Becky Castell,Home Office,34,28,14789.43,2755.68,3,5,5,13,Loyal
+BC-1125,Becky Castell,Home Office,30,6,396.03000000000003,-269.73,3,2,1,6,Needs Attention
+BD-11320,Bill Donatelli,Consumer,6,32,13390.25,1409.6100000000001,5,5,4,14,Champions
+BD-11500,Bradley Drucker,Consumer,20,27,13089.86,2412.37,4,4,4,12,Champions
+BD-11560,Brendan Dodson,Home Office,8,19,9356.77,1909.8500000000001,5,3,3,11,Loyal
+BD-11605,Brian Dahlen,Consumer,98,19,9202.69,1201.17,2,3,3,8,At Risk
+BD-11620,Brian DeCherney,Consumer,50,25,7849.0199999999995,448.51,2,4,3,9,At Risk
+BD-11635,Brian Derr,Consumer,10,25,11230.710000000001,1303.63,5,4,4,13,Champions
+BD-11725,Bruce Degenhardt,Consumer,5,30,10877.83,1574.17,5,5,4,14,Champions
+BD-11770,Bryan Davis,Consumer,36,26,10168.3,2397.81,3,4,4,11,Loyal
+BD-1320,Bill Donatelli,Consumer,6,6,1885.05,213.06,5,2,2,9,Promising
+BD-1500,Bradley Drucker,Consumer,399,3,52.05,-31.29,1,1,1,3,Lost
+BD-1560,Brendan Dodson,Home Office,91,5,1564.02,114.83999999999997,2,1,2,5,Lost
+BD-1605,Brian Dahlen,Consumer,276,5,689.64,224.48999999999998,1,1,1,3,Lost
+BD-1620,Brian DeCherney,Consumer,118,11,2919.6,535.92,2,3,2,7,At Risk
+BD-1635,Brian Derr,Consumer,325,9,5689.26,1488.69,1,3,3,7,At Risk
+BD-1725,Bruce Degenhardt,Consumer,101,13,5078.400000000001,901.0200000000001,2,3,3,8,At Risk
+BD-1770,Bryan Davis,Consumer,239,5,3405.06,-869.55,1,1,3,5,Lost
+BE-11335,Bill Eplett,Home Office,36,37,27158.02,7790.71,3,5,5,13,Loyal
+BE-11410,Bobby Elias,Consumer,85,30,16552.06,3398.0899999999997,2,5,5,12,At Risk
+BE-11455,Brad Eason,Home Office,4,27,17643.51,517.91,5,4,5,14,Champions
+BE-1335,Bill Eplett,Home Office,573,5,1321.15,-380.69,1,1,1,3,Lost
+BE-1410,Bobby Elias,Consumer,22,7,1859.86,391.06,4,2,2,8,Promising
+BE-1455,Brad Eason,Home Office,147,2,1340.31,460.11,1,1,1,3,Lost
+BF-1005,Barry Franz,Home Office,735,2,732.03,176.43,1,1,1,3,Lost
+BF-1020,Barry Französisch,Corporate,97,7,3007.0,-193.12999999999997,2,2,2,6,Lost
+BF-1080,Bart Folk,Consumer,210,6,3808.17,896.94,1,2,3,6,Lost
+BF-10975,Barbara Fisher,Corporate,36,22,8104.7699999999995,1217.0,3,3,3,9,Loyal
+BF-11005,Barry Franz,Home Office,9,25,23347.84,939.24,5,4,5,14,Champions
+BF-11020,Barry Französisch,Corporate,16,24,10201.27,1133.23,4,4,4,12,Champions
+BF-11080,Bart Folk,Consumer,26,21,10134.56,1187.56,4,3,4,11,Loyal
+BF-11170,Ben Ferrer,Home Office,17,31,22314.84,3859.23,4,5,5,14,Champions
+BF-11215,Benjamin Farhat,Home Office,27,27,12968.95,878.9200000000001,4,4,4,12,Champions
+BF-11275,Beth Fritzler,Corporate,7,23,9578.61,565.08,5,4,3,12,Champions
+BF-1170,Ben Ferrer,Home Office,194,6,904.9200000000001,275.88,1,2,1,4,Lost
+BF-1215,Benjamin Farhat,Home Office,118,5,398.91,-237.60000000000002,2,1,1,4,Lost
+BF-1275,Beth Fritzler,Corporate,129,7,1009.98,96.39,1,2,1,4,Lost
+BF-975,Barbara Fisher,Corporate,23,8,1730.23,616.72,4,2,2,8,Promising
+BG-1035,Barry Gonzalez,Consumer,601,1,124.42,-219.8,1,1,1,3,Lost
+BG-11035,Barry Gonzalez,Consumer,29,33,19899.16,1750.0,3,5,5,13,Loyal
+BG-11695,Brooke Gillingham,Corporate,10,19,10723.32,568.98,5,3,4,12,Loyal
+BG-11740,Bruce Geld,Consumer,7,24,14689.35,2084.93,5,4,5,14,Champions
+BG-1695,Brooke Gillingham,Corporate,45,5,488.84,-151.66,3,1,1,5,Needs Attention
+BG-1740,Bruce Geld,Consumer,17,4,692.4499999999999,-658.3,4,1,1,6,Promising
+BH-11710,Brosina Hoffman,Consumer,24,31,23537.32,3243.96,4,5,5,14,Champions
+BH-1710,Brosina Hoffman,Consumer,94,10,4583.29,1633.0,2,3,3,8,At Risk
+BK-11260,Berenike Kampe,Consumer,27,27,13294.7,2389.46,4,4,4,12,Champions
+BK-1260,Berenike Kampe,Consumer,41,6,291.56,58.220000000000006,3,2,1,6,Needs Attention
+BM-11140,Becky Martin,Consumer,9,29,25312.31,-1140.64,5,5,5,15,Champions
+BM-1140,Becky Martin,Consumer,14,6,1857.7,43.72,4,2,2,8,Promising
+BM-11575,Brendan Murry,Corporate,35,25,10351.34,-189.53000000000003,3,4,4,11,Loyal
+BM-11650,Brian Moss,Corporate,34,24,14920.98,3927.17,3,4,5,12,Loyal
+BM-11785,Bryan Mills,Consumer,3,36,18446.82,2036.65,5,5,5,15,Champions
+BM-1575,Brendan Murry,Corporate,41,9,1703.98,471.67,3,3,2,8,Loyal
+BM-1650,Brian Moss,Corporate,482,8,2537.1,458.66999999999996,1,2,2,5,Lost
+BM-1785,Bryan Mills,Consumer,49,9,2244.34,475.93,3,3,2,8,Loyal
+BN-11470,Brad Norvell,Corporate,12,29,23378.13,1548.06,5,5,5,15,Champions
+BN-11515,Bradley Nguyen,Consumer,10,23,10272.22,2018.71,5,4,4,13,Champions
+BN-1470,Brad Norvell,Corporate,23,7,2823.85,576.01,4,2,2,8,Promising
+BN-1515,Bradley Nguyen,Consumer,28,8,2606.7999999999997,525.37,3,2,2,7,Needs Attention
+BO-11350,Bill Overfelt,Corporate,112,20,7476.27,555.2,2,3,3,8,At Risk
+BO-11425,Bobby Odegard,Consumer,6,21,12356.55,1904.87,5,3,4,12,Loyal
+BO-1350,Bill Overfelt,Corporate,22,6,616.25,-139.95999999999998,4,2,1,7,Promising
+BO-1425,Bobby Odegard,Consumer,2,8,2671.26,651.9300000000001,5,2,2,9,Promising
+BP-1050,Barry Pond,Corporate,12,9,4981.54,1245.88,4,3,3,10,Loyal
+BP-1095,Bart Pistole,Corporate,12,6,1759.67,384.83,4,2,2,8,Promising
+BP-11050,Barry Pond,Corporate,6,21,5403.78,845.07,5,3,3,11,Loyal
+BP-11095,Bart Pistole,Corporate,3,32,8327.880000000001,599.42,5,5,3,13,Champions
+BP-11155,Becky Pak,Consumer,33,24,13696.12,3395.28,3,4,4,11,Loyal
+BP-11185,Ben Peterman,Corporate,2,28,15376.02,1989.4699999999998,5,5,5,15,Champions
+BP-11230,Benjamin Patterson,Consumer,40,23,12573.62,467.92,3,4,4,11,Loyal
+BP-11290,Beth Paige,Consumer,13,29,12448.9,1858.81,4,5,4,13,Champions
+BP-1155,Becky Pak,Consumer,262,6,1110.78,180.9,1,2,1,4,Lost
+BP-1185,Ben Peterman,Corporate,5,10,1430.61,-645.54,5,3,2,10,Loyal
+BP-1230,Benjamin Patterson,Consumer,84,8,6134.99,444.29,2,2,3,7,Lost
+BP-1290,Beth Paige,Consumer,370,4,383.34000000000003,99.27,1,1,1,3,Lost
+BS-11365,Bill Shonely,Corporate,1,26,22551.010000000002,5680.71,5,4,5,14,Champions
+BS-11380,Bill Stewart,Corporate,29,23,18305.989999999998,1776.72,3,4,5,12,Loyal
+BS-11590,Brendan Sweed,Corporate,36,23,11358.6,1783.47,3,4,4,11,Loyal
+BS-11665,Brian Stugart,Consumer,30,24,17468.89,3112.14,3,4,5,12,Loyal
+BS-11755,Bruce Stewart,Consumer,2,29,17557.45,1194.71,5,5,5,15,Champions
+BS-11800,Bryan Spruell,Home Office,10,21,10887.210000000001,1851.86,5,3,4,12,Loyal
+BS-1365,Bill Shonely,Corporate,38,5,957.63,288.18,3,1,1,5,Needs Attention
+BS-1380,Bill Stewart,Corporate,132,5,469.46000000000004,38.33,1,1,1,3,Lost
+BS-1590,Brendan Sweed,Corporate,238,5,819.4499999999999,262.23,1,1,1,3,Lost
+BS-1665,Brian Stugart,Consumer,153,7,5101.91,500.72,1,2,3,6,Lost
+BS-1755,Bruce Stewart,Consumer,296,5,1679.77,-697.76,1,1,2,4,Lost
+BS-1800,Bryan Spruell,Home Office,12,9,6364.85,931.34,4,3,3,10,Loyal
+BT-11305,Beth Thompson,Home Office,29,24,10321.82,908.16,3,4,4,11,Loyal
+BT-11395,Bill Tyler,Corporate,29,24,11347.53,2743.95,3,4,4,11,Loyal
+BT-11440,Bobby Trafton,Consumer,52,21,8263.97,290.94,2,3,3,8,At Risk
+BT-11485,Brad Thomas,Home Office,31,29,8878.05,1170.74,3,5,3,11,Loyal
+BT-11530,Bradley Talbott,Home Office,34,25,13808.32,930.8199999999999,3,4,4,11,Loyal
+BT-11680,Brian Thompson,Consumer,19,22,14087.76,1663.93,4,3,4,11,Loyal
+BT-1305,Beth Thompson,Home Office,32,10,1305.97,-44.239999999999974,3,3,1,7,Loyal
+BT-1395,Bill Tyler,Corporate,34,4,448.84000000000003,-199.04,3,1,1,5,Needs Attention
+BT-1440,Bobby Trafton,Consumer,94,10,2132.56,-760.73,2,3,2,7,At Risk
+BT-1485,Brad Thomas,Home Office,98,9,2803.9700000000003,-231.12999999999994,2,3,2,7,At Risk
+BT-1530,Bradley Talbott,Home Office,353,7,1535.77,522.79,1,2,2,5,Lost
+BT-1680,Brian Thompson,Consumer,58,4,807.36,131.64,2,1,1,4,Lost
+BV-11245,Benjamin Venier,Corporate,45,22,20681.69,3415.05,3,4,5,12,Loyal
+BV-1245,Benjamin Venier,Corporate,129,3,684.26,-595.3,1,1,1,3,Lost
+BW-1065,Barry Weirich,Consumer,23,5,9027.48,3341.34,4,1,3,8,Promising
+BW-11065,Barry Weirich,Consumer,51,18,8409.08,354.09000000000003,2,3,3,8,At Risk
+BW-1110,Bart Watters,Corporate,185,10,1696.83,258.42,1,3,2,6,At Risk
+BW-11110,Bart Watters,Corporate,55,35,30613.61,3337.45,2,5,5,12,At Risk
+BW-11200,Ben Wallace,Consumer,41,29,11862.36,1567.8700000000001,3,5,4,12,Loyal
+BW-1200,Ben Wallace,Consumer,134,4,3105.82,784.33,1,1,2,4,Lost
+CA-11965,Carol Adams,Corporate,19,26,21110.52,3382.27,4,4,5,13,Champions
+CA-12055,Cathy Armstrong,Home Office,14,22,10691.04,1738.39,4,4,4,12,Champions
+CA-12265,Christina Anderson,Consumer,35,31,18472.68,3270.73,3,5,5,13,Loyal
+CA-12310,Christine Abelman,Corporate,14,21,7166.23,727.9100000000001,4,3,3,10,Loyal
+CA-12775,Cynthia Arntzen,Consumer,94,26,18350.47,4605.48,2,4,5,11,At Risk
+CA-1965,Carol Adams,Corporate,128,8,2883.15,-103.17000000000002,1,2,2,5,Lost
+CA-2055,Cathy Armstrong,Home Office,259,3,1601.73,131.4,1,1,2,4,Lost
+CA-2265,Christina Anderson,Consumer,106,7,3364.64,391.40000000000003,2,2,3,7,Lost
+CA-2310,Christine Abelman,Corporate,337,5,636.0600000000001,139.23000000000002,1,1,1,3,Lost
+CA-2775,Cynthia Arntzen,Consumer,310,4,1485.8799999999999,-714.23,1,1,2,4,Lost
+CB-12025,Cassandra Brandow,Consumer,10,25,11685.32,-98.73000000000002,5,4,4,13,Champions
+CB-12415,Christy Brittain,Consumer,27,23,12705.56,2271.91,4,4,4,12,Champions
+CB-12535,Claudia Bergmann,Corporate,43,27,18108.67,2401.88,3,4,5,12,Loyal
+CB-2025,Cassandra Brandow,Consumer,23,5,1840.8899999999999,307.56,4,1,2,7,Promising
+CB-2415,Christy Brittain,Consumer,517,4,1232.57,-184.80999999999997,1,1,1,3,Lost
+CB-2535,Claudia Bergmann,Corporate,8,2,147.12,-234.69,5,1,1,7,Promising
+CC-12100,Chad Cunningham,Home Office,52,25,11500.12,2384.27,2,4,4,10,At Risk
+CC-12145,Charles Crestani,Consumer,83,24,12190.67,1471.94,2,4,4,10,At Risk
+CC-12220,Chris Cortes,Consumer,21,32,7308.75,1315.81,4,5,3,12,Champions
+CC-12370,Christopher Conant,Consumer,44,30,28229.85,3982.93,3,5,5,13,Loyal
+CC-12430,Chuck Clark,Home Office,1,29,13997.59,2779.89,5,5,4,14,Champions
+CC-12475,Cindy Chapman,Consumer,17,30,17159.8,3120.14,4,5,5,14,Champions
+CC-12550,Clay Cheatham,Consumer,28,25,7908.66,1167.47,3,4,3,10,Loyal
+CC-12610,Corey Catlett,Corporate,17,29,16822.64,2950.2,4,5,5,14,Champions
+CC-12670,Craig Carreira,Consumer,17,28,9969.0,-549.6,4,5,4,13,Champions
+CC-12685,Craig Carroll,Consumer,55,20,12798.54,693.61,2,3,4,9,At Risk
+CC-2100,Chad Cunningham,Home Office,61,5,1020.05,238.36999999999998,2,1,1,4,Lost
+CC-2145,Charles Crestani,Consumer,505,6,1158.17,-164.14000000000001,1,2,1,4,Lost
+CC-2220,Chris Cortes,Consumer,22,12,4174.18,1190.08,4,3,3,10,Loyal
+CC-2370,Christopher Conant,Consumer,7,9,6957.2300000000005,1620.41,5,3,3,11,Loyal
+CC-2430,Chuck Clark,Home Office,472,2,1041.57,160.59,1,1,1,3,Lost
+CC-2475,Cindy Chapman,Consumer,56,7,3709.87,914.68,2,2,3,7,Lost
+CC-2550,Clay Cheatham,Consumer,272,5,1433.4,357.09,1,1,2,4,Lost
+CC-2610,Corey Catlett,Corporate,345,3,782.39,52.81999999999999,1,1,1,3,Lost
+CC-2670,Craig Carreira,Consumer,147,6,1527.58,268.6,1,2,2,5,Lost
+CC-2685,Craig Carroll,Consumer,132,5,4019.4100000000003,1556.23,1,1,3,5,Lost
+CD-11920,Carlos Daly,Consumer,3,27,18296.760000000002,4751.73,5,4,5,14,Champions
+CD-11980,Carol Darley,Consumer,2,23,11848.16,1648.45,5,4,4,13,Champions
+CD-12280,Christina DeMoss,Consumer,42,24,16779.56,2367.38,3,4,5,12,Loyal
+CD-12790,Cynthia Delaney,Home Office,77,25,13468.130000000001,2080.49,2,4,4,10,At Risk
+CD-1920,Carlos Daly,Consumer,315,4,1821.22,277.18,1,1,2,4,Lost
+CD-1980,Carol Darley,Consumer,7,7,1380.23,231.92000000000002,5,2,2,9,Promising
+CD-2280,Christina DeMoss,Consumer,13,7,1205.05,224.4,4,2,1,7,Promising
+CD-2790,Cynthia Delaney,Home Office,132,7,1030.79,73.82,1,2,1,4,Lost
+CG-12040,Catherine Glotzbach,Home Office,22,19,3596.2799999999997,149.06,4,3,3,10,Loyal
+CG-12520,Claire Gute,Consumer,29,18,13545.45,2398.12,3,3,4,10,Loyal
+CG-2040,Catherine Glotzbach,Home Office,379,5,518.9399999999999,-395.91,1,1,1,3,Lost
+CG-2520,Claire Gute,Consumer,120,7,1116.21,168.45000000000002,2,2,1,5,Lost
+CH-12070,Cathy Hwang,Home Office,90,21,11122.56,1493.42,2,3,4,9,At Risk
+CH-2070,Cathy Hwang,Home Office,307,8,4545.62,1178.09,1,2,3,6,Lost
+CJ-11875,Carl Jackson,Corporate,14,23,12538.84,1857.27,4,4,4,12,Champions
+CJ-12010,Caroline Jumper,Consumer,34,26,19356.01,2386.7400000000002,3,4,5,12,Loyal
+CJ-1875,Carl Jackson,Corporate,33,6,1431.44,100.19,3,2,2,7,Needs Attention
+CJ-2010,Caroline Jumper,Consumer,47,3,223.56,30.87,3,1,1,5,Needs Attention
+CK-12205,Chloris Kastensmidt,Consumer,5,38,13625.17,1311.1699999999998,5,5,4,14,Champions
+CK-12325,Christine Kargatis,Home Office,62,27,9927.880000000001,849.51,2,4,4,10,At Risk
+CK-12595,Clytie Kelty,Consumer,44,33,16480.87,2175.84,3,5,5,13,Loyal
+CK-12760,Cyma Kinney,Corporate,58,26,6574.8,-100.50000000000003,2,4,3,9,At Risk
+CK-2205,Chloris Kastensmidt,Consumer,80,5,950.69,-345.41,2,1,1,4,Lost
+CK-2325,Christine Kargatis,Home Office,1,8,3125.2999999999997,531.2,5,2,2,9,Promising
+CK-2595,Clytie Kelty,Consumer,216,3,662.28,197.79,1,1,1,3,Lost
+CK-2760,Cyma Kinney,Corporate,38,12,4015.95,625.89,3,3,3,9,Loyal
+CL-11890,Carl Ludwig,Consumer,14,31,17622.41,-247.73,4,5,5,14,Champions
+CL-12565,Clay Ludtke,Consumer,6,30,17008.15,614.58,5,5,5,15,Champions
+CL-12700,Craig Leslie,Home Office,9,31,17943.65,2563.44,5,5,5,15,Champions
+CL-1890,Carl Ludwig,Consumer,93,9,560.75,83.48,2,3,1,6,At Risk
+CL-2565,Clay Ludtke,Consumer,43,6,2775.64,708.85,3,2,2,7,Needs Attention
+CL-2700,Craig Leslie,Home Office,142,4,1432.37,106.88,1,1,2,4,Lost
+CM-11815,Candace McMahon,Corporate,41,23,14362.81,-2881.65,3,4,5,12,Loyal
+CM-11830,Cari MacIntyre,Corporate,7,24,16828.82,2444.7,5,4,5,14,Champions
+CM-11935,Carlos Meador,Consumer,37,18,9689.01,2081.09,3,3,3,9,Loyal
+CM-12115,Chad McGuire,Consumer,9,20,14657.95,2164.82,5,3,5,13,Loyal
+CM-12160,Charles McCrossin,Consumer,27,26,17910.04,432.53999999999996,4,4,5,13,Champions
+CM-12190,Charlotte Melton,Consumer,1,25,11375.03,598.48,5,4,4,13,Champions
+CM-12235,Chris McAfee,Consumer,43,22,11377.59,1953.99,3,4,4,11,Loyal
+CM-12385,Christopher Martinez,Consumer,38,25,21882.97,3029.97,3,4,5,12,Loyal
+CM-12445,Chuck Magee,Consumer,16,25,11971.699999999999,1188.1299999999999,4,4,4,12,Champions
+CM-12655,Corinna Mitchell,Home Office,28,18,14188.74,-733.96,3,3,5,11,Loyal
+CM-12715,Craig Molinari,Corporate,42,19,8392.58,915.4000000000001,3,3,3,9,Loyal
+CM-1815,Candace McMahon,Corporate,62,5,431.87,82.85,2,1,1,4,Lost
+CM-1830,Cari MacIntyre,Corporate,114,13,4777.42,39.98999999999999,2,3,3,8,At Risk
+CM-1935,Carlos Meador,Consumer,49,7,459.29,125.28,3,2,1,6,Needs Attention
+CM-2115,Chad McGuire,Consumer,21,3,1907.3700000000001,277.53,4,1,2,7,Promising
+CM-2160,Charles McCrossin,Consumer,50,5,2245.92,314.13,2,1,2,5,Lost
+CM-2190,Charlotte Melton,Consumer,153,4,1451.49,-480.68999999999994,1,1,2,4,Lost
+CM-2235,Chris McAfee,Consumer,52,5,243.03,-66.3,2,1,1,4,Lost
+CM-2385,Christopher Martinez,Consumer,575,4,580.61,-19.92999999999999,1,1,1,3,Lost
+CM-2445,Chuck Magee,Consumer,349,4,1741.58,288.53,1,1,2,4,Lost
+CM-2655,Corinna Mitchell,Home Office,51,12,1389.84,-221.1,2,3,2,7,At Risk
+CM-2715,Craig Molinari,Corporate,118,7,2838.27,294.96000000000004,2,2,2,6,Lost
+CP-12085,Cathy Prescott,Corporate,70,23,14183.87,620.37,2,4,4,10,At Risk
+CP-12340,Christine Phan,Corporate,9,30,20109.48,182.96000000000012,5,5,5,15,Champions
+CP-2085,Cathy Prescott,Corporate,143,10,5585.69,1130.18,1,3,3,7,At Risk
+CP-2340,Christine Phan,Corporate,464,4,5044.65,1565.31,1,1,3,5,Lost
+CR-12580,Clay Rozendal,Home Office,23,20,8700.32,818.04,4,3,3,10,Loyal
+CR-12625,Corey Roper,Home Office,44,28,17271.170000000002,1478.56,3,5,5,13,Loyal
+CR-12730,Craig Reiter,Consumer,23,24,19487.96,1648.04,4,4,5,13,Champions
+CR-12820,Cyra Reiten,Home Office,61,24,14470.56,3391.19,2,4,5,11,At Risk
+CR-2580,Clay Rozendal,Home Office,35,5,3057.27,1127.97,3,1,2,6,Needs Attention
+CR-2625,Corey Roper,Home Office,140,9,5079.9,866.5500000000001,1,3,3,7,At Risk
+CR-2730,Craig Reiter,Consumer,6,11,1359.58,-212.60000000000002,5,3,1,9,Loyal
+CR-2820,Cyra Reiten,Home Office,56,8,1188.01,-78.47000000000003,2,2,1,5,Lost
+CS-11845,Cari Sayre,Corporate,16,26,20471.06,3274.96,4,4,5,13,Champions
+CS-11860,Cari Schnelling,Consumer,78,21,10555.91,970.33,2,3,4,9,At Risk
+CS-11950,Carlos Soltero,Consumer,26,31,14222.96,-1148.06,4,5,5,14,Champions
+CS-12130,Chad Sievert,Consumer,12,22,10981.24,641.4499999999999,4,4,4,12,Champions
+CS-12175,Charles Sheldon,Corporate,61,29,16706.1,3114.0099999999998,2,5,5,12,At Risk
+CS-12250,Chris Selesnick,Corporate,27,30,12496.09,2210.82,4,5,4,13,Champions
+CS-12355,Christine Sundaresam,Consumer,7,31,9240.89,-115.64000000000003,5,5,3,13,Champions
+CS-12400,Christopher Schild,Home Office,2,23,10221.36,1373.06,5,4,4,13,Champions
+CS-12460,Chuck Sachs,Consumer,7,23,20084.21,2801.27,5,4,5,14,Champions
+CS-12490,Cindy Schnelling,Corporate,3,30,11110.51,-422.25,5,5,4,14,Champions
+CS-12505,Cindy Stewart,Consumer,28,16,11535.26,-6437.339999999999,3,3,4,10,Loyal
+CS-1845,Cari Sayre,Corporate,25,8,1593.3,-359.67,4,2,2,8,Promising
+CS-1860,Cari Schnelling,Consumer,51,9,1618.68,349.56,2,3,2,7,At Risk
+CS-1950,Carlos Soltero,Consumer,136,5,714.0699999999999,148.0,1,1,1,3,Lost
+CS-2130,Chad Sievert,Consumer,306,4,1367.27,-645.52,1,1,1,3,Lost
+CS-2175,Charles Sheldon,Corporate,58,5,3340.1,1214.57,2,1,3,6,Lost
+CS-2250,Chris Selesnick,Corporate,3,4,1917.6200000000001,391.66999999999996,5,1,2,8,Promising
+CS-2355,Christine Sundaresam,Consumer,56,9,1307.17,114.49,2,3,1,6,At Risk
+CS-2400,Christopher Schild,Home Office,12,5,2293.17,706.98,4,1,2,7,Promising
+CS-2460,Chuck Sachs,Consumer,203,8,2671.22,141.82999999999998,1,2,2,5,Lost
+CS-2490,Cindy Schnelling,Corporate,170,3,1664.13,611.13,1,1,2,4,Lost
+CS-2505,Cindy Stewart,Consumer,51,7,1894.5,285.81,2,2,2,6,Lost
+CT-11995,Carol Triggs,Consumer,29,27,13715.8,2509.39,3,4,4,11,Loyal
+CT-1995,Carol Triggs,Consumer,784,2,422.78000000000003,-71.58999999999999,1,1,1,3,Lost
+CV-12295,Christina VanderZanden,Consumer,40,20,9042.26,1126.44,3,3,3,9,Loyal
+CV-12805,Cynthia Voltz,Corporate,5,20,9764.14,1737.42,5,3,3,11,Loyal
+CV-2295,Christina VanderZanden,Consumer,86,9,1283.24,-521.11,2,3,1,6,At Risk
+CV-2805,Cynthia Voltz,Corporate,258,7,5088.85,172.66,1,2,3,6,Lost
+CW-11905,Carl Weiss,Home Office,9,25,12917.64,2635.85,5,4,4,13,Champions
+CW-1905,Carl Weiss,Home Office,385,4,1436.31,371.55,1,1,2,4,Lost
+CY-12745,Craig Yedwab,Corporate,61,31,13928.45,1721.24,2,5,4,11,At Risk
+CY-2745,Craig Yedwab,Corporate,493,4,293.03,-179.02,1,1,1,3,Lost
+Co-12640,Corey-Lock,Consumer,5,25,12279.24,1295.17,5,4,4,13,Champions
+Co-2640,Corey-Lock,Consumer,363,5,767.64,-99.11999999999998,1,1,1,3,Lost
+DA-13450,Dianna Arnett,Home Office,14,25,13035.369999999999,-826.0700000000002,4,4,4,12,Champions
+DA-3450,Dianna Arnett,Home Office,15,4,2212.05,528.24,4,1,2,7,Promising
+DB-12910,Daniel Byrd,Home Office,3,27,12338.3,782.0,5,4,4,13,Champions
+DB-12970,Darren Budd,Corporate,218,11,9166.210000000001,463.25,1,3,3,7,At Risk
+DB-13060,Dave Brooks,Consumer,17,26,23476.93,3315.63,4,4,5,13,Champions
+DB-13120,David Bremer,Corporate,6,16,5602.59,-2028.5900000000001,5,3,3,11,Loyal
+DB-13210,Dean Braden,Consumer,8,27,13743.57,1479.93,5,4,4,13,Champions
+DB-13270,Deborah Brumfield,Home Office,10,25,11690.38,1420.48,5,4,4,13,Champions
+DB-13360,Dennis Bolton,Home Office,48,28,6919.8099999999995,848.45,3,5,3,11,Loyal
+DB-13405,Denny Blanton,Consumer,29,26,16083.97,1988.84,3,4,5,12,Loyal
+DB-13555,Dorothy Badders,Corporate,37,22,9415.22,943.03,3,4,3,10,Loyal
+DB-13615,Doug Bickford,Consumer,28,28,10031.46,1995.25,3,5,4,12,Loyal
+DB-13660,Duane Benoit,Consumer,13,20,11397.06,1267.31,4,3,4,11,Loyal
+DB-2910,Daniel Byrd,Home Office,55,8,3051.18,874.95,2,2,2,6,Lost
+DB-2970,Darren Budd,Corporate,58,4,513.03,123.72,2,1,1,4,Lost
+DB-3060,Dave Brooks,Consumer,9,8,2070.26,336.74,5,2,2,9,Promising
+DB-3120,David Bremer,Corporate,359,4,671.23,-242.11999999999998,1,1,1,3,Lost
+DB-3210,Dean Braden,Consumer,583,7,387.03000000000003,-54.150000000000006,1,2,1,4,Lost
+DB-3270,Deborah Brumfield,Home Office,49,2,886.23,219.78,3,1,1,5,Needs Attention
+DB-3360,Dennis Bolton,Home Office,435,2,3691.53,1074.27,1,1,3,5,Lost
+DB-3405,Denny Blanton,Consumer,558,2,548.68,-30.259999999999998,1,1,1,3,Lost
+DB-3555,Dorothy Badders,Corporate,6,3,971.11,299.26000000000005,5,1,1,7,Promising
+DB-3615,Doug Bickford,Consumer,108,4,2824.15,972.4300000000001,2,1,2,5,Lost
+DB-3660,Duane Benoit,Consumer,238,3,2207.71,150.46,1,1,2,4,Lost
+DC-12850,Dan Campbell,Consumer,38,29,9307.35,-659.5899999999999,3,5,3,11,Loyal
+DC-13285,Debra Catini,Consumer,19,23,16164.64,1043.38,4,4,5,13,Champions
+DC-2850,Dan Campbell,Consumer,35,9,4131.14,589.07,3,3,3,9,Loyal
+DC-3285,Debra Catini,Consumer,393,4,800.0,-178.06,1,1,1,3,Lost
+DD-13570,Dorothy Dickinson,Consumer,42,24,8741.46,959.7800000000001,3,4,3,10,Loyal
+DD-3570,Dorothy Dickinson,Consumer,64,8,2331.41,439.88,2,2,2,6,Lost
+DE-13255,Deanra Eno,Home Office,20,22,10085.779999999999,1657.8999999999999,4,4,4,12,Champions
+DE-3255,Deanra Eno,Home Office,49,8,2714.49,77.61,3,2,2,7,Needs Attention
+DF-13135,David Flashing,Consumer,10,18,10240.4,474.0,5,3,4,12,Loyal
+DF-3135,David Flashing,Consumer,44,4,1301.65,-110.93000000000002,3,1,1,5,Needs Attention
+DG-13300,Deirdre Greer,Corporate,31,28,13731.43,2067.25,3,5,4,12,Loyal
+DG-3300,Deirdre Greer,Corporate,15,6,2982.2999999999997,307.05,4,2,2,8,Promising
+DH-13075,Dave Hallsten,Corporate,76,25,14128.65,1370.54,2,4,4,10,At Risk
+DH-13675,Duane Huffman,Home Office,22,17,7817.31,843.0200000000001,4,3,3,10,Loyal
+DH-3075,Dave Hallsten,Corporate,160,10,2063.68,311.28999999999996,1,3,2,6,At Risk
+DH-3675,Duane Huffman,Home Office,21,12,4661.84,1308.14,4,3,3,10,Loyal
+DJ-13420,Denny Joy,Corporate,23,28,22142.43,3173.13,4,5,5,14,Champions
+DJ-13510,Don Jones,Corporate,7,31,15420.289999999999,2695.88,5,5,5,15,Champions
+DJ-13630,Doug Jacobs,Consumer,13,27,12560.15,2205.9,4,4,4,12,Champions
+DJ-3420,Denny Joy,Corporate,2,4,419.64,82.25999999999999,5,1,1,7,Promising
+DJ-3510,Don Jones,Corporate,7,7,5976.6900000000005,1614.6,5,2,3,10,Promising
+DJ-3630,Doug Jacobs,Consumer,35,6,1293.9499999999998,469.88000000000005,3,2,1,6,Needs Attention
+DK-12835,Damala Kotsonis,Corporate,22,32,17590.55,2632.19,4,5,5,14,Champions
+DK-12895,Dana Kaydos,Consumer,46,22,18340.63,1080.68,3,4,5,12,Loyal
+DK-12985,Darren Koutras,Consumer,2,35,14823.99,1366.82,5,5,5,15,Champions
+DK-13090,Dave Kipp,Consumer,9,36,19178.65,4004.46,5,5,5,15,Champions
+DK-13150,David Kendrick,Corporate,11,22,15983.73,2064.7400000000002,5,4,5,14,Champions
+DK-13225,Dean Katz,Corporate,2,29,9246.47,898.33,5,5,3,13,Champions
+DK-13375,Dennis Kane,Consumer,5,26,16258.52,2159.77,5,4,5,14,Champions
+DK-2835,Damala Kotsonis,Corporate,22,11,3373.1400000000003,285.65999999999997,4,3,3,10,Loyal
+DK-2895,Dana Kaydos,Consumer,147,6,1292.13,282.9,1,2,1,4,Lost
+DK-2985,Darren Koutras,Consumer,1207,1,81.43,-78.89,1,1,1,3,Lost
+DK-3090,Dave Kipp,Consumer,69,3,273.77,76.13,2,1,1,4,Lost
+DK-3150,David Kendrick,Corporate,58,14,1577.88,114.41999999999999,2,3,2,7,At Risk
+DK-3225,Dean Katz,Corporate,66,8,1407.98,108.77,2,2,2,6,Lost
+DK-3375,Dennis Kane,Consumer,118,10,3846.78,805.71,2,3,3,8,At Risk
+DL-12865,Dan Lawera,Consumer,58,34,11185.7,280.3400000000001,2,5,4,11,At Risk
+DL-12925,Daniel Lacy,Consumer,58,21,11364.72,1411.8300000000002,2,3,4,9,At Risk
+DL-13315,Delfina Latchford,Consumer,19,27,18505.6,2265.23,4,4,5,13,Champions
+DL-13330,Denise Leinenbach,Consumer,13,34,16781.62,2652.75,4,5,5,14,Champions
+DL-13495,Dionis Lloyd,Corporate,23,27,15872.18,2474.7599999999998,4,4,5,13,Champions
+DL-2865,Dan Lawera,Consumer,203,7,1502.96,145.70000000000002,1,2,2,5,Lost
+DL-2925,Daniel Lacy,Consumer,38,7,831.97,-303.38,3,2,1,6,Needs Attention
+DL-3315,Delfina Latchford,Consumer,48,6,1746.87,533.31,3,2,2,7,Needs Attention
+DL-3330,Denise Leinenbach,Consumer,706,3,1159.3500000000001,94.74000000000001,1,1,1,3,Lost
+DL-3495,Dionis Lloyd,Corporate,283,5,773.6,-913.9000000000001,1,1,1,3,Lost
+DM-12955,Dario Medina,Corporate,41,32,19862.55,2206.2,3,5,5,13,Loyal
+DM-13015,Darrin Martin,Consumer,6,30,15626.52,1530.88,5,5,5,15,Champions
+DM-13345,Denise Monton,Corporate,3,27,17054.87,2876.8,5,4,5,14,Champions
+DM-13525,Don Miller,Corporate,36,19,9640.4,-925.5499999999998,3,3,3,9,Loyal
+DM-2955,Dario Medina,Corporate,13,9,2437.41,100.70999999999995,4,3,2,9,Loyal
+DM-3015,Darrin Martin,Consumer,3,6,2105.79,460.89,5,2,2,9,Promising
+DM-3345,Denise Monton,Corporate,146,6,4998.43,-5474.6,1,2,3,6,Lost
+DM-3525,Don Miller,Corporate,322,6,2191.27,652.15,1,2,2,5,Lost
+DN-13690,Duane Noonan,Consumer,20,24,13098.33,711.4,4,4,4,12,Champions
+DN-3690,Duane Noonan,Consumer,13,5,1815.96,-477.86999999999995,4,1,2,7,Promising
+DO-13435,Denny Ordway,Consumer,65,32,15280.89,3207.45,2,5,5,12,At Risk
+DO-13645,Doug O'Connell,Consumer,27,25,12083.5,1997.83,4,4,4,12,Champions
+DO-3435,Denny Ordway,Consumer,37,10,3515.73,930.21,3,3,3,9,Loyal
+DO-3645,Doug O'Connell,Consumer,42,5,1689.25,-181.10000000000005,3,1,2,6,Needs Attention
+DP-13000,Darren Powers,Consumer,62,31,13882.73,-949.6299999999999,2,5,4,11,At Risk
+DP-13105,Dave Poirier,Corporate,7,25,18930.03,3099.95,5,4,5,14,Champions
+DP-13165,David Philippe,Consumer,8,25,22211.3,1808.3400000000001,5,4,5,14,Champions
+DP-13390,Dennis Pardue,Home Office,1,27,10282.789999999999,2369.82,5,4,4,13,Champions
+DP-3000,Darren Powers,Consumer,15,10,2093.61,432.15,4,3,2,9,Loyal
+DP-3105,Dave Poirier,Corporate,65,6,6970.71,1500.1800000000003,2,2,3,7,Lost
+DP-3165,David Philippe,Consumer,8,6,1517.95,-973.79,5,2,2,9,Promising
+DP-3390,Dennis Pardue,Home Office,13,6,1376.1299999999999,318.36,4,2,2,8,Promising
+DR-12880,Dan Reichenbach,Corporate,4,32,14415.32,2112.63,5,5,5,15,Champions
+DR-12940,Daniel Raglin,Home Office,28,33,25641.46,5505.92,3,5,5,13,Loyal
+DR-2880,Dan Reichenbach,Corporate,5,8,2291.46,-128.25,5,2,2,9,Promising
+DR-2940,Daniel Raglin,Home Office,40,8,2288.4,598.05,3,2,2,7,Needs Attention
+DS-13030,Darrin Sayre,Home Office,94,26,11644.3,1068.36,2,4,4,10,At Risk
+DS-13180,David Smith,Corporate,15,31,13447.4,1669.76,4,5,4,13,Champions
+DS-3030,Darrin Sayre,Home Office,49,6,1636.51,419.32000000000005,3,2,2,7,Needs Attention
+DS-3180,David Smith,Corporate,72,2,185.14,43.629999999999995,2,1,1,4,Lost
+DV-13045,Darrin Van Huff,Corporate,20,24,18106.03,599.1999999999999,4,4,5,13,Champions
+DV-13465,Dianna Vittorini,Consumer,30,20,12910.880000000001,2167.69,3,3,4,10,Loyal
+DV-3045,Darrin Van Huff,Corporate,34,13,4640.32,17.13999999999999,3,3,3,9,Loyal
+DV-3465,Dianna Vittorini,Consumer,14,5,4037.82,1175.04,4,1,3,8,Promising
+DW-13195,David Wiener,Corporate,7,26,9689.31,1623.38,5,4,3,12,Champions
+DW-13480,Dianna Wilson,Home Office,66,23,16336.84,3315.67,2,4,5,11,At Risk
+DW-13540,Don Weiss,Consumer,13,20,13166.42,1471.8700000000001,4,3,4,11,Loyal
+DW-13585,Dorothy Wardle,Corporate,6,37,12143.03,821.7900000000001,5,5,4,14,Champions
+DW-3195,David Wiener,Corporate,1064,4,1241.23,115.72,1,1,1,3,Lost
+DW-3480,Dianna Wilson,Home Office,56,12,7118.110000000001,1713.4,2,3,3,8,At Risk
+DW-3540,Don Weiss,Consumer,55,4,1216.6,-1046.16,2,1,1,4,Lost
+DW-3585,Dorothy Wardle,Corporate,29,4,461.86999999999995,48.739999999999995,3,1,1,5,Needs Attention
+Dl-13600,Dorris liebe,Corporate,6,20,11912.78,1722.95,5,3,4,12,Loyal
+Dl-3600,Dorris liebe,Corporate,112,10,2809.06,128.76999999999998,2,3,2,7,At Risk
+Dp-13240,Dean percer,Home Office,19,28,22225.63,3822.7000000000003,4,5,5,14,Champions
+Dp-3240,Dean percer,Home Office,26,7,609.3,136.47,4,2,1,7,Promising
+EA-14035,Erin Ashbrook,Corporate,94,31,11387.07,867.19,2,5,4,11,At Risk
+EA-4035,Erin Ashbrook,Corporate,166,3,131.81,0.8900000000000006,1,1,1,3,Lost
+EB-13705,Ed Braxton,Corporate,49,30,12382.3,894.03,3,5,4,12,Loyal
+EB-13750,Edward Becker,Corporate,33,20,8490.0,1368.5900000000001,3,3,3,9,Loyal
+EB-13840,Ellis Ballard,Corporate,3,25,20188.15,5466.49,5,4,5,14,Champions
+EB-13870,Emily Burns,Consumer,16,19,6850.98,187.36,4,3,3,10,Loyal
+EB-13930,Eric Barreto,Consumer,20,18,9533.95,1385.47,4,3,3,10,Loyal
+EB-13975,Erica Bern,Corporate,1,32,13405.59,2653.54,5,5,4,14,Champions
+EB-14110,Eugene Barchas,Consumer,36,24,13665.47,3285.61,3,4,4,11,Loyal
+EB-14170,Evan Bailliet,Consumer,20,23,6736.44,276.7799999999999,4,4,3,11,Champions
+EB-3705,Ed Braxton,Corporate,399,3,3141.63,594.6,1,1,2,4,Lost
+EB-3750,Edward Becker,Corporate,185,6,939.15,118.56,1,2,1,4,Lost
+EB-3840,Ellis Ballard,Corporate,44,6,1797.74,382.25,3,2,2,7,Needs Attention
+EB-3870,Emily Burns,Consumer,498,5,184.87,-166.82,1,1,1,3,Lost
+EB-3930,Eric Barreto,Consumer,8,9,2433.52,706.27,5,3,2,10,Loyal
+EB-3975,Erica Bern,Corporate,36,9,2713.62,377.19,3,3,2,8,Loyal
+EB-4110,Eugene Barchas,Consumer,21,10,2417.7599999999998,-391.95000000000005,4,3,2,9,Loyal
+EB-4170,Evan Bailliet,Consumer,55,6,1267.6200000000001,288.84,2,2,1,5,Lost
+EC-14050,Erin Creighton,Consumer,54,19,4430.24,424.08,2,3,3,8,At Risk
+EC-4050,Erin Creighton,Consumer,163,7,2301.31,407.71,1,2,2,5,Lost
+ED-13885,Emily Ducich,Home Office,16,31,18018.88,2933.29,4,5,5,14,Champions
+ED-3885,Emily Ducich,Home Office,57,8,525.48,-360.81,2,2,1,5,Lost
+EG-13900,Emily Grady,Consumer,23,21,16562.35,3360.53,4,3,5,12,Loyal
+EG-3900,Emily Grady,Consumer,52,11,6549.95,-756.31,2,3,3,8,At Risk
+EH-13765,Edward Hooks,Corporate,3,29,20259.920000000002,1685.93,5,5,5,15,Champions
+EH-13945,Eric Hoffmann,Consumer,58,27,7832.71,1551.1,2,4,3,9,At Risk
+EH-13990,Erica Hackney,Consumer,45,26,8807.08,1552.32,3,4,3,10,Loyal
+EH-14005,Erica Hernandez,Home Office,3,28,10374.95,285.6599999999999,5,5,4,14,Champions
+EH-14125,Eugene Hildebrand,Home Office,103,31,17408.31,2105.9,2,5,5,12,At Risk
+EH-14185,Evan Henry,Consumer,68,29,12800.54,1241.93,2,5,4,11,At Risk
+EH-3765,Edward Hooks,Corporate,129,9,1010.38,-1014.77,1,3,1,5,At Risk
+EH-3945,Eric Hoffmann,Consumer,112,9,2518.74,698.97,2,3,2,7,At Risk
+EH-3990,Erica Hackney,Consumer,34,6,672.49,4.600000000000003,3,2,1,6,Needs Attention
+EH-4005,Erica Hernandez,Home Office,197,7,2629.67,509.0,1,2,2,5,Lost
+EH-4125,Eugene Hildebrand,Home Office,23,13,5012.22,-445.56,4,3,3,10,Loyal
+EH-4185,Evan Henry,Consumer,122,8,3577.77,1039.62,2,2,3,7,Lost
+EJ-13720,Ed Jacobs,Consumer,50,22,8969.44,1012.95,2,4,3,9,At Risk
+EJ-14155,Eva Jacobs,Consumer,28,23,12324.83,1975.1100000000001,3,4,4,11,Loyal
+EJ-3720,Ed Jacobs,Consumer,157,8,1727.97,197.01,1,2,2,5,Lost
+EJ-4155,Eva Jacobs,Consumer,23,5,2631.99,819.45,4,1,2,7,Promising
+EK-13795,Eileen Kiefer,Home Office,45,17,5597.36,593.13,3,3,3,9,Loyal
+EK-3795,Eileen Kiefer,Home Office,213,6,1531.09,172.35999999999999,1,2,2,5,Lost
+EL-13735,Ed Ludwig,Home Office,54,23,10515.86,1142.5900000000001,2,4,4,10,At Risk
+EL-3735,Ed Ludwig,Home Office,27,11,3691.39,12.950000000000097,4,3,3,10,Loyal
+EM-13810,Eleni McCrary,Corporate,79,23,13549.71,1664.8,2,4,4,10,At Risk
+EM-13825,Elizabeth Moffitt,Corporate,56,26,14128.06,2018.1200000000001,2,4,4,10,At Risk
+EM-13960,Eric Murdock,Consumer,3,37,25228.52,2593.94,5,5,5,15,Champions
+EM-14065,Erin Mull,Consumer,17,17,12108.29,3017.71,4,3,4,11,Loyal
+EM-14095,Eudokia Martin,Corporate,9,17,10889.69,1684.95,5,3,4,12,Loyal
+EM-14140,Eugene Moren,Home Office,25,30,21507.29,3683.11,4,5,5,14,Champions
+EM-14200,Evan Minnotte,Home Office,42,23,17087.78,3138.34,3,4,5,12,Loyal
+EM-3810,Eleni McCrary,Corporate,59,6,1032.88,232.57000000000002,2,2,1,5,Lost
+EM-3825,Elizabeth Moffitt,Corporate,483,6,378.25,-30.08,1,2,1,4,Lost
+EM-3960,Eric Murdock,Consumer,195,8,2855.87,712.07,1,2,2,5,Lost
+EM-4065,Erin Mull,Consumer,53,9,3213.25,921.73,2,3,3,8,At Risk
+EM-4095,Eudokia Martin,Corporate,132,9,2833.56,79.82999999999998,1,3,2,6,At Risk
+EM-4140,Eugene Moren,Home Office,94,6,1900.78,-58.87999999999998,2,2,2,6,Lost
+EM-4200,Evan Minnotte,Home Office,152,4,2585.9,509.12,1,1,2,4,Lost
+EN-13780,Edward Nazzal,Consumer,15,20,6333.92,478.53,4,3,3,10,Loyal
+EN-3780,Edward Nazzal,Consumer,206,8,734.86,-240.83,1,2,1,4,Lost
+EP-13915,Emily Phan,Consumer,13,33,16283.36,2159.56,4,5,5,14,Champions
+EP-3915,Emily Phan,Consumer,76,3,487.95,-55.620000000000005,2,1,1,4,Lost
+ER-13855,Elpida Rittenbach,Corporate,70,19,13396.0,2212.09,2,3,4,9,At Risk
+ER-3855,Elpida Rittenbach,Corporate,54,7,3736.2999999999997,373.63000000000005,2,2,3,7,Lost
+ES-14020,Erica Smith,Consumer,1,32,12827.289999999999,2761.4,5,5,4,14,Champions
+ES-14080,Erin Smith,Corporate,29,24,16236.01,1925.21,3,4,5,12,Loyal
+ES-4020,Erica Smith,Consumer,29,7,1892.77,365.98,3,2,2,7,Needs Attention
+ES-4080,Erin Smith,Corporate,146,9,1925.54,250.1,1,3,2,6,At Risk
+FA-14230,Frank Atkinson,Corporate,23,29,13535.07,1245.28,4,5,4,13,Champions
+FA-4230,Frank Atkinson,Corporate,185,6,814.57,250.92999999999998,1,2,1,4,Lost
+FC-14245,Frank Carlisle,Home Office,43,23,10867.789999999999,2492.33,3,4,4,11,Loyal
+FC-14335,Fred Chung,Corporate,108,23,8770.74,1329.9099999999999,2,4,3,9,At Risk
+FC-4245,Frank Carlisle,Home Office,492,6,1540.64,288.46999999999997,1,2,2,5,Lost
+FC-4335,Fred Chung,Corporate,111,4,550.95,166.76999999999998,2,1,1,4,Lost
+FG-14260,Frank Gastineau,Home Office,35,18,9396.5,1158.06,3,3,3,9,Loyal
+FG-4260,Frank Gastineau,Home Office,111,9,308.21000000000004,-123.94,2,3,1,6,At Risk
+FH-14275,Frank Hawley,Corporate,5,23,13569.57,3539.43,5,4,4,13,Champions
+FH-14350,Fred Harton,Consumer,2,20,10654.52,2959.85,5,3,4,12,Loyal
+FH-14365,Fred Hopkins,Corporate,2,30,27649.329999999998,4101.92,5,5,5,15,Champions
+FH-4275,Frank Hawley,Corporate,135,5,113.07,8.16,1,1,1,3,Lost
+FH-4350,Fred Harton,Consumer,15,3,110.47999999999999,-71.83,4,1,1,6,Promising
+FH-4365,Fred Hopkins,Corporate,167,9,2751.35,507.38000000000005,1,3,2,6,At Risk
+FM-14215,Filia McAdams,Corporate,8,31,14353.38,1000.95,5,5,5,15,Champions
+FM-14290,Frank Merwin,Home Office,37,30,14382.31,2191.58,3,5,5,13,Loyal
+FM-14380,Fred McMath,Consumer,146,21,6598.4,1461.1200000000001,1,3,3,7,At Risk
+FM-4215,Filia McAdams,Corporate,97,6,2935.61,393.05,2,2,2,6,Lost
+FM-4290,Frank Merwin,Home Office,3,8,2002.71,409.71000000000004,5,2,2,9,Promising
+FM-4380,Fred McMath,Consumer,2,6,843.54,-445.59,5,2,1,8,Promising
+FO-14305,Frank Olsen,Consumer,23,37,15614.210000000001,2567.1,4,5,5,14,Champions
+FO-4305,Frank Olsen,Consumer,52,10,2158.45,456.64,2,3,2,7,At Risk
+FP-14320,Frank Preis,Consumer,24,29,9939.06,840.66,4,5,4,13,Champions
+FP-4320,Frank Preis,Consumer,28,5,816.5799999999999,96.55,3,1,1,5,Needs Attention
+FW-14395,Fred Wasserman,Corporate,64,26,16972.75,1651.7700000000002,2,4,5,11,At Risk
+FW-4395,Fred Wasserman,Corporate,1,8,1220.81,32.029999999999994,5,2,1,8,Promising
+GA-14515,George Ashbrook,Consumer,23,24,12488.67,1108.46,4,4,4,12,Champions
+GA-14725,Guy Armstrong,Consumer,3,24,8817.55,1012.25,5,4,3,12,Champions
+GA-4515,George Ashbrook,Consumer,36,7,1318.3899999999999,-316.13,3,2,1,6,Needs Attention
+GA-4725,Guy Armstrong,Consumer,71,4,1460.8,-240.29,2,1,2,5,Lost
+GB-14530,George Bell,Corporate,34,25,11657.75,560.64,3,4,4,11,Loyal
+GB-14575,Giulietta Baptist,Consumer,14,24,10749.0,1621.01,4,4,4,12,Champions
+GB-4530,George Bell,Corporate,114,5,525.9,95.67,2,1,1,4,Lost
+GB-4575,Giulietta Baptist,Consumer,210,6,1821.9099999999999,12.249999999999986,1,2,2,5,Lost
+GD-14590,Giulietta Dortch,Corporate,6,29,18005.02,1826.51,5,5,5,15,Champions
+GD-4590,Giulietta Dortch,Corporate,353,4,700.69,61.63,1,1,1,3,Lost
+GG-14650,Greg Guthrie,Corporate,34,28,12902.96,1491.57,3,5,4,12,Loyal
+GG-4650,Greg Guthrie,Corporate,104,5,1000.42,31.93,2,1,1,4,Lost
+GH-14410,Gary Hansen,Home Office,21,36,13659.59,47.47000000000009,4,5,4,13,Champions
+GH-14425,Gary Hwang,Consumer,19,31,20039.74,3375.21,4,5,5,14,Champions
+GH-14485,Gene Hale,Corporate,52,21,14692.66,2200.7400000000002,2,3,5,10,At Risk
+GH-14665,Greg Hansen,Consumer,3,29,12921.44,1877.93,5,5,4,14,Champions
+GH-4410,Gary Hansen,Home Office,298,9,1610.22,566.34,1,3,2,6,At Risk
+GH-4425,Gary Hwang,Consumer,22,10,4585.82,532.88,4,3,3,10,Loyal
+GH-4485,Gene Hale,Corporate,86,4,794.62,95.2,2,1,1,4,Lost
+GH-4665,Greg Hansen,Consumer,2,9,1077.07,-293.27,5,3,1,9,Loyal
+GK-14620,Grace Kelly,Corporate,13,24,19215.77,3611.16,4,4,5,13,Champions
+GK-4620,Grace Kelly,Corporate,101,4,764.6,-115.87,2,1,1,4,Lost
+GM-14440,Gary McGarr,Consumer,20,26,15782.47,1431.28,4,4,5,13,Champions
+GM-14455,Gary Mitchum,Home Office,17,17,10523.66,3106.23,4,3,4,11,Loyal
+GM-14500,Gene McClure,Consumer,107,23,6704.1900000000005,531.4300000000001,2,4,3,9,At Risk
+GM-14680,Greg Matthias,Consumer,2,31,12010.6,-1804.8200000000002,5,5,4,14,Champions
+GM-14695,Greg Maxwell,Corporate,48,19,14564.92,-71.31000000000007,3,3,5,11,Loyal
+GM-4440,Gary McGarr,Consumer,2,8,735.22,233.74,5,2,1,8,Promising
+GM-4455,Gary Mitchum,Home Office,209,4,488.43,-234.11999999999998,1,1,1,3,Lost
+GM-4500,Gene McClure,Consumer,105,5,4298.37,1021.83,2,1,3,6,Lost
+GM-4680,Greg Matthias,Consumer,73,6,1590.4,466.90000000000003,2,2,2,6,Lost
+GM-4695,Greg Maxwell,Corporate,223,7,791.5,59.92,1,2,1,4,Lost
+GP-14740,Guy Phonely,Corporate,2,25,10793.74,377.68000000000006,5,4,4,13,Champions
+GP-4740,Guy Phonely,Corporate,152,8,4610.1,872.4300000000001,1,2,3,6,Lost
+GR-14560,Georgia Rosenberg,Corporate,50,24,8895.04,1030.98,2,4,3,9,At Risk
+GR-4560,Georgia Rosenberg,Corporate,154,6,4955.5199999999995,-534.73,1,2,3,6,Lost
+GT-14635,Grant Thornton,Corporate,57,20,19080.35,-3790.1,2,3,5,10,At Risk
+GT-14710,Greg Tran,Consumer,9,30,34471.89,5164.82,5,5,5,15,Champions
+GT-14755,Guy Thornton,Consumer,35,23,5601.71,593.34,3,4,3,10,Loyal
+GT-4635,Grant Thornton,Corporate,10,7,1145.01,212.16,5,2,1,8,Promising
+GT-4710,Greg Tran,Consumer,56,4,1079.06,49.279999999999994,2,1,1,4,Lost
+GT-4755,Guy Thornton,Consumer,1,8,3457.58,190.85000000000002,5,2,3,10,Promising
+GW-14605,Giulietta Weimer,Consumer,19,25,16239.49,934.7099999999999,4,4,5,13,Champions
+GW-4605,Giulietta Weimer,Consumer,15,8,1830.79,264.34,4,2,2,8,Promising
+GZ-14470,Gary Zandusky,Consumer,8,35,20869.68,2885.96,5,5,5,15,Champions
+GZ-14545,George Zrebassa,Corporate,77,24,11593.74,2645.3,2,4,4,10,At Risk
+GZ-4470,Gary Zandusky,Consumer,148,8,3835.62,856.44,1,2,3,6,Lost
+GZ-4545,George Zrebassa,Corporate,31,6,3698.39,1460.3000000000002,3,2,3,8,Needs Attention
+HA-14905,Helen Abelman,Consumer,70,24,15826.86,-526.0500000000001,2,4,5,11,At Risk
+HA-14920,Helen Andreada,Consumer,21,25,9740.41,1457.35,4,4,3,11,Champions
+HA-4905,Helen Abelman,Consumer,14,4,1106.6,-235.63,4,1,1,6,Promising
+HA-4920,Helen Andreada,Consumer,91,6,670.67,103.78999999999999,2,2,1,5,Lost
+HD-14785,Harold Dahlen,Home Office,43,29,16749.16,1803.15,3,5,5,13,Loyal
+HD-4785,Harold Dahlen,Home Office,107,7,3325.61,828.05,2,2,3,7,Lost
+HE-14800,Harold Engle,Corporate,7,27,9902.48,1570.1299999999999,5,4,4,13,Champions
+HE-4800,Harold Engle,Corporate,37,8,1091.32,140.29,3,2,1,6,Needs Attention
+HF-14995,Herbert Flentye,Consumer,15,28,9712.85,-474.87,4,5,3,12,Champions
+HF-4995,Herbert Flentye,Consumer,391,8,2099.9700000000003,-178.25999999999996,1,2,2,5,Lost
+HG-14845,Harry Greene,Consumer,13,30,21228.55,-824.0100000000001,4,5,5,14,Champions
+HG-14965,Henry Goldwyn,Corporate,24,34,16810.7,-1607.25,4,5,5,14,Champions
+HG-15025,Hunter Glantz,Consumer,7,29,14737.8,1357.6399999999999,5,5,5,15,Champions
+HG-4845,Harry Greene,Consumer,142,9,2987.9,532.52,1,3,2,6,At Risk
+HG-4965,Henry Goldwyn,Corporate,100,5,354.59,9.740000000000006,2,1,1,4,Lost
+HG-5025,Hunter Glantz,Consumer,24,7,1476.6100000000001,175.27,4,2,2,8,Promising
+HH-15010,Hilary Holden,Corporate,55,24,13731.74,2109.31,2,4,4,10,At Risk
+HH-5010,Hilary Holden,Corporate,197,3,1497.57,323.01,1,1,2,4,Lost
+HJ-14875,Heather Jas,Home Office,6,32,14312.8,2324.0299999999997,5,5,5,15,Champions
+HJ-4875,Heather Jas,Home Office,311,6,1121.22,294.24,1,2,1,4,Lost
+HK-14890,Heather Kirkland,Corporate,44,27,13886.44,2306.94,3,4,4,11,Loyal
+HK-4890,Heather Kirkland,Corporate,57,6,1656.97,187.99000000000004,2,2,2,6,Lost
+HL-15040,Hunter Lopez,Consumer,31,20,29664.25,7657.509999999999,3,3,5,11,Loyal
+HL-5040,Hunter Lopez,Consumer,189,4,579.34,159.07,1,1,1,3,Lost
+HM-14860,Harry Marie,Corporate,2,37,27434.170000000002,6544.86,5,5,5,15,Champions
+HM-14980,Henry MacAllister,Consumer,26,29,12718.83,1044.73,4,5,4,13,Champions
+HM-4860,Harry Marie,Corporate,35,4,1042.77,413.4,3,1,1,5,Needs Attention
+HM-4980,Henry MacAllister,Consumer,465,5,4409.3,1628.63,1,1,3,5,Lost
+HP-14815,Harold Pawlan,Home Office,31,24,7321.43,636.2199999999999,3,4,3,10,Loyal
+HP-4815,Harold Pawlan,Home Office,64,5,1196.69,244.01,2,1,1,4,Lost
+HR-14770,Hallie Redmond,Home Office,14,18,11126.94,1182.91,4,3,4,11,Loyal
+HR-14830,Harold Ryan,Corporate,52,21,9637.18,1517.89,2,3,3,8,At Risk
+HR-4770,Hallie Redmond,Home Office,188,8,4550.32,522.37,1,2,3,6,Lost
+HR-4830,Harold Ryan,Corporate,149,3,391.93,-61.85000000000001,1,1,1,3,Lost
+HW-14935,Helen Wasserman,Corporate,35,28,17199.19,2653.69,3,5,5,13,Loyal
+HW-4935,Helen Wasserman,Corporate,57,7,1174.82,-98.59000000000002,2,2,1,5,Lost
+HZ-14950,Henia Zydlo,Consumer,36,22,9656.38,1003.4100000000001,3,4,3,10,Loyal
+HZ-4950,Henia Zydlo,Consumer,209,6,2830.41,-261.96,1,2,2,5,Lost
+IG-15085,Ivan Gibson,Consumer,14,25,10383.11,657.48,4,4,4,12,Champions
+IG-5085,Ivan Gibson,Consumer,2,12,5766.25,1253.68,5,3,3,11,Loyal
+IL-15100,Ivan Liston,Consumer,117,25,11802.69,1244.22,2,4,4,10,At Risk
+IL-5100,Ivan Liston,Consumer,164,7,1052.82,-63.14999999999999,1,2,1,4,Lost
+IM-15055,Ionia McGrath,Consumer,16,15,5154.85,1534.04,4,3,3,10,Loyal
+IM-15070,Irene Maddox,Consumer,41,27,17854.12,-567.6200000000001,3,4,5,12,Loyal
+IM-5055,Ionia McGrath,Consumer,20,7,4324.95,913.95,4,2,3,9,Promising
+IM-5070,Irene Maddox,Consumer,51,7,2064.06,-112.67999999999998,2,2,2,6,Lost
+JA-15970,Joseph Airdo,Consumer,1,25,17105.47,688.96,5,4,5,14,Champions
+JA-5970,Joseph Airdo,Consumer,1,7,1057.22,153.35,5,2,1,8,Promising
+JB-15400,Jennifer Braxton,Corporate,8,34,13085.51,1992.25,5,5,4,14,Champions
+JB-15925,Joni Blumstein,Consumer,10,19,12325.28,1649.1299999999999,5,3,4,12,Loyal
+JB-16000,Joy Bell-,Consumer,2,32,22127.18,2936.38,5,5,5,15,Champions
+JB-16045,Julia Barnett,Home Office,1,24,13851.28,778.6300000000001,5,4,4,13,Champions
+JB-5400,Jennifer Braxton,Corporate,83,7,2172.0299999999997,459.59999999999997,2,2,2,6,Lost
+JB-5925,Joni Blumstein,Consumer,23,8,1012.09,-518.6300000000001,4,2,1,7,Promising
+JB-6000,Joy Bell-,Consumer,175,7,1881.0,-68.45999999999997,1,2,2,5,Lost
+JB-6045,Julia Barnett,Home Office,29,10,3235.65,-529.59,3,3,3,9,Loyal
+JC-15340,Jasper Cacioppo,Consumer,35,29,17836.29,239.28999999999996,3,5,5,13,Loyal
+JC-15385,Jenna Caffey,Consumer,9,25,12978.95,2086.82,5,4,4,13,Champions
+JC-15775,John Castell,Consumer,2,25,10582.79,1820.48,5,4,4,13,Champions
+JC-16105,Julie Creighton,Corporate,58,28,11079.09,712.3100000000001,2,5,4,11,At Risk
+JC-5340,Jasper Cacioppo,Consumer,143,6,606.11,98.50999999999999,1,2,1,4,Lost
+JC-5385,Jenna Caffey,Consumer,16,9,3183.08,-782.23,4,3,3,10,Loyal
+JC-5775,John Castell,Consumer,14,5,1712.49,37.91999999999999,4,1,2,7,Promising
+JC-6105,Julie Creighton,Corporate,103,6,3914.95,-2601.4100000000003,2,2,3,7,Lost
+JD-15790,John Dryer,Consumer,16,24,10267.75,-293.69,4,4,4,12,Champions
+JD-15895,Jonathan Doherty,Corporate,7,32,16711.33,1430.55,5,5,5,15,Champions
+JD-16015,Joy Daniels,Consumer,49,24,8690.63,-29.389999999999993,3,4,3,10,Loyal
+JD-16060,Julia Dunbar,Consumer,66,19,7683.04,-24.029999999999998,2,3,3,8,At Risk
+JD-16150,Justin Deggeller,Corporate,1,28,18281.87,1430.4799999999998,5,5,5,15,Champions
+JD-5790,John Dryer,Consumer,300,5,1323.08,-905.02,1,1,1,3,Lost
+JD-5895,Jonathan Doherty,Corporate,3,6,2770.44,296.25,5,2,2,9,Promising
+JD-6015,Joy Daniels,Consumer,43,8,2652.7799999999997,-575.01,3,2,2,7,Needs Attention
+JD-6060,Julia Dunbar,Consumer,141,9,3541.45,588.94,1,3,3,7,At Risk
+JD-6150,Justin Deggeller,Corporate,22,6,5329.7699999999995,1194.87,4,2,3,9,Promising
+JE-15475,Jeremy Ellison,Consumer,36,22,5905.07,1223.33,3,4,3,10,Loyal
+JE-15610,Jim Epp,Corporate,43,26,13192.68,1780.08,3,4,4,11,Loyal
+JE-15715,Joe Elijah,Consumer,10,36,22275.28,3648.0,5,5,5,15,Champions
+JE-15745,Joel Eaton,Consumer,33,35,19629.14,1123.48,3,5,5,13,Loyal
+JE-16165,Justin Ellison,Corporate,21,20,8352.74,1839.83,4,3,3,10,Loyal
+JE-5475,Jeremy Ellison,Consumer,28,8,914.1800000000001,94.85000000000001,3,2,1,6,Needs Attention
+JE-5610,Jim Epp,Corporate,176,6,756.84,-408.17,1,2,1,4,Lost
+JE-5715,Joe Elijah,Consumer,87,7,180.29999999999998,-27.119999999999997,2,2,1,5,Lost
+JE-5745,Joel Eaton,Consumer,195,7,2275.5,405.3,1,2,2,5,Lost
+JE-6165,Justin Ellison,Corporate,37,8,4555.72,1088.5,3,2,3,8,Needs Attention
+JF-15190,Jamie Frazer,Consumer,7,28,17064.72,4108.55,5,5,5,15,Champions
+JF-15295,Jason Fortune-,Consumer,57,24,20382.25,3263.3,2,4,5,11,At Risk
+JF-15355,Jay Fein,Consumer,14,22,7343.56,1016.67,4,4,3,11,Champions
+JF-15415,Jennifer Ferguson,Consumer,3,23,14717.47,1396.6499999999999,5,4,5,14,Champions
+JF-15490,Jeremy Farry,Consumer,5,30,9234.539999999999,1048.34,5,5,3,13,Champions
+JF-15565,Jill Fjeld,Consumer,2,29,19844.13,4329.91,5,5,5,15,Champions
+JF-5190,Jamie Frazer,Consumer,150,8,3510.16,-2385.95,1,2,3,6,Lost
+JF-5295,Jason Fortune-,Consumer,64,8,2433.94,-570.77,2,2,2,6,Lost
+JF-5355,Jay Fein,Consumer,97,9,3475.77,-2891.34,2,3,3,8,At Risk
+JF-5415,Jennifer Ferguson,Consumer,38,11,8227.02,1270.2,3,3,3,9,Loyal
+JF-5490,Jeremy Farry,Consumer,100,7,1487.3899999999999,151.79,2,2,2,6,Lost
+JF-5565,Jill Fjeld,Consumer,421,6,3776.7000000000003,547.74,1,2,3,6,Lost
+JG-15115,Jack Garza,Consumer,69,19,12801.82,1161.66,2,3,4,9,At Risk
+JG-15160,James Galang,Consumer,2,32,19963.41,4499.0,5,5,5,15,Champions
+JG-15310,Jason Gross,Corporate,3,24,12733.72,2095.94,5,4,4,13,Champions
+JG-15805,John Grady,Corporate,1,37,22015.39,3393.22,5,5,5,15,Champions
+JG-5115,Jack Garza,Consumer,6,9,2907.67,-2083.91,5,3,2,10,Loyal
+JG-5160,James Galang,Consumer,17,8,1588.12,50.11,4,2,2,8,Promising
+JG-5310,Jason Gross,Corporate,44,5,836.99,158.72,3,1,1,5,Needs Attention
+JG-5805,John Grady,Corporate,134,3,208.37,-112.45,1,1,1,3,Lost
+JH-15430,Jennifer Halladay,Consumer,6,31,11806.210000000001,1477.23,5,5,4,14,Champions
+JH-15820,John Huston,Consumer,14,31,23586.74,4829.65,4,5,5,14,Champions
+JH-15910,Jonathan Howell,Consumer,42,32,12532.7,1635.4,3,5,4,12,Loyal
+JH-15985,Joseph Holt,Consumer,12,38,18863.37,-182.95999999999987,4,5,5,14,Champions
+JH-16180,Justin Hirsh,Consumer,51,31,18267.01,2588.2799999999997,2,5,5,12,At Risk
+JH-5430,Jennifer Halladay,Consumer,8,9,883.48,113.5,5,3,1,9,Loyal
+JH-5820,John Huston,Consumer,43,7,2359.01,566.15,3,2,2,7,Needs Attention
+JH-5910,Jonathan Howell,Consumer,41,8,4013.9900000000002,-930.3399999999999,3,2,3,8,Needs Attention
+JH-5985,Joseph Holt,Consumer,53,7,2073.48,569.61,2,2,2,6,Lost
+JH-6180,Justin Hirsh,Consumer,28,9,5651.9,1406.39,3,3,3,9,Loyal
+JJ-15445,Jennifer Jackson,Consumer,34,19,9696.83,1054.36,3,3,3,9,Loyal
+JJ-15760,Joel Jenkins,Home Office,3,28,18103.670000000002,1755.6399999999999,5,5,5,15,Champions
+JJ-5445,Jennifer Jackson,Consumer,20,6,2490.2,-31.659999999999965,4,2,2,8,Promising
+JJ-5760,Joel Jenkins,Home Office,269,6,1890.1200000000001,93.39,1,2,2,5,Lost
+JK-15205,Jamie Kunitz,Consumer,62,24,10917.01,2359.56,2,4,4,10,At Risk
+JK-15325,Jason Klamczynski,Corporate,78,28,17000.84,2059.36,2,5,5,12,At Risk
+JK-15370,Jay Kimmel,Consumer,2,27,10189.49,1813.49,5,4,4,13,Champions
+JK-15625,Jim Karlsson,Consumer,2,27,12754.42,2805.65,5,4,4,13,Champions
+JK-15640,Jim Kriz,Home Office,1,26,12637.449999999999,2651.11,5,4,4,13,Champions
+JK-15730,Joe Kamberova,Consumer,49,34,20825.92,2283.7799999999997,3,5,5,13,Loyal
+JK-16090,Juliana Krohn,Consumer,9,33,21918.72,3195.37,5,5,5,15,Champions
+JK-16120,Julie Kriz,Home Office,98,26,13134.72,1594.5,2,4,4,10,At Risk
+JK-5205,Jamie Kunitz,Consumer,592,5,1617.6,404.22,1,1,2,4,Lost
+JK-5325,Jason Klamczynski,Corporate,461,3,203.39,-36.970000000000006,1,1,1,3,Lost
+JK-5370,Jay Kimmel,Consumer,145,6,3211.45,-263.4500000000001,1,2,3,6,Lost
+JK-5625,Jim Karlsson,Consumer,317,8,4364.7699999999995,1170.7,1,2,3,6,Lost
+JK-5640,Jim Kriz,Home Office,174,4,428.43,103.17,1,1,1,3,Lost
+JK-5730,Joe Kamberova,Consumer,484,6,5862.87,2089.7400000000002,1,2,3,6,Lost
+JK-6090,Juliana Krohn,Consumer,13,5,1215.51,-1397.13,4,1,1,6,Promising
+JK-6120,Julie Kriz,Home Office,141,6,2513.07,299.7,1,2,2,5,Lost
+JL-15130,Jack Lebron,Consumer,9,28,12908.51,967.89,5,5,4,14,Champions
+JL-15175,James Lanier,Home Office,7,27,13499.84,1268.02,5,4,4,13,Champions
+JL-15235,Janet Lee,Consumer,14,24,18725.4,4370.9400000000005,4,4,5,13,Champions
+JL-15505,Jeremy Lonsdale,Consumer,31,22,8631.699999999999,644.26,3,4,3,10,Loyal
+JL-15835,John Lee,Consumer,22,30,22594.05,1576.53,4,5,5,14,Champions
+JL-15850,John Lucas,Consumer,45,22,8497.67,988.23,3,4,3,10,Loyal
+JL-5130,Jack Lebron,Consumer,198,12,5765.400000000001,72.30000000000015,1,3,3,7,At Risk
+JL-5175,James Lanier,Home Office,125,5,1353.09,433.14,2,1,1,4,Lost
+JL-5235,Janet Lee,Consumer,2,4,1751.71,359.74,5,1,2,8,Promising
+JL-5505,Jeremy Lonsdale,Consumer,342,3,2729.3399999999997,542.01,1,1,2,4,Lost
+JL-5835,John Lee,Consumer,55,7,3388.27,816.4599999999999,2,2,3,7,Lost
+JL-5850,John Lucas,Consumer,698,4,2003.6,-634.0,1,1,2,4,Lost
+JM-15250,Janet Martin,Consumer,36,24,15594.45,2152.67,3,4,5,12,Loyal
+JM-15265,Janet Molinari,Corporate,38,29,15036.550000000001,2624.0099999999998,3,5,5,13,Loyal
+JM-15535,Jessica Myrick,Consumer,15,20,6942.41,1460.23,4,3,3,10,Loyal
+JM-15580,Jill Matthias,Consumer,1,24,13295.85,1540.21,5,4,4,13,Champions
+JM-15655,Jim Mitchum,Corporate,9,34,16294.72,1190.05,5,5,5,15,Champions
+JM-15865,John Murray,Consumer,69,29,20841.96,2234.26,2,5,5,12,At Risk
+JM-16195,Justin MacKendrick,Consumer,58,25,7825.56,1314.33,2,4,3,9,At Risk
+JM-5250,Janet Martin,Consumer,7,5,2424.2,-488.02000000000004,5,1,2,8,Promising
+JM-5265,Janet Molinari,Corporate,121,4,1131.91,156.1,2,1,1,4,Lost
+JM-5535,Jessica Myrick,Consumer,244,5,847.81,-101.33,1,1,1,3,Lost
+JM-5580,Jill Matthias,Consumer,50,5,880.32,176.53000000000003,2,1,1,4,Lost
+JM-5655,Jim Mitchum,Corporate,123,8,3602.67,608.46,2,2,3,7,Lost
+JM-5865,John Murray,Consumer,71,6,1544.27,83.87,2,2,2,6,Lost
+JM-6195,Justin MacKendrick,Consumer,13,8,1200.5,205.48999999999998,4,2,1,7,Promising
+JO-15145,Jack O'Briant,Corporate,58,23,10440.97,2280.96,2,4,4,10,At Risk
+JO-15280,Jas O'Carroll,Consumer,15,21,7123.56,1203.1,4,3,3,10,Loyal
+JO-15550,Jesus Ocampo,Home Office,72,19,4002.91,541.31,2,3,3,8,At Risk
+JO-5145,Jack O'Briant,Corporate,6,6,2904.71,764.3000000000001,5,2,2,9,Promising
+JO-5280,Jas O'Carroll,Consumer,20,4,1694.8500000000001,702.69,4,1,2,7,Promising
+JO-5550,Jesus Ocampo,Home Office,13,9,4203.78,41.46000000000002,4,3,3,10,Loyal
+JP-15460,Jennifer Patt,Corporate,37,26,10916.33,1639.8999999999999,3,4,4,11,Loyal
+JP-15520,Jeremy Pistek,Consumer,9,26,16429.04,2854.75,5,4,5,14,Champions
+JP-16135,Julie Prescott,Home Office,44,34,10163.5,2036.02,3,5,4,12,Loyal
+JP-5460,Jennifer Patt,Corporate,189,10,3294.02,439.49,1,3,3,7,At Risk
+JP-5520,Jeremy Pistek,Consumer,113,4,2227.5299999999997,315.42,2,1,2,5,Lost
+JP-6135,Julie Prescott,Home Office,27,8,4432.650000000001,1443.03,4,2,3,9,Promising
+JR-15670,Jim Radford,Consumer,13,20,13338.09,-1185.99,4,3,4,11,Loyal
+JR-15700,Jocasta Rupert,Consumer,8,18,9568.32,815.8699999999999,5,3,3,11,Loyal
+JR-16210,Justin Ritter,Corporate,19,21,12589.95,1221.94,4,3,4,11,Loyal
+JR-5670,Jim Radford,Consumer,129,6,2585.03,425.57,1,2,2,5,Lost
+JR-5700,Jocasta Rupert,Consumer,14,6,1673.16,116.67000000000002,4,2,2,8,Promising
+JR-6210,Justin Ritter,Corporate,38,6,1033.29,84.81,3,2,1,6,Needs Attention
+JS-15595,Jill Stevenson,Corporate,6,18,9334.64,562.57,5,3,3,11,Loyal
+JS-15685,Jim Sink,Corporate,41,26,14338.53,1848.05,3,4,5,12,Loyal
+JS-15880,John Stevenson,Consumer,12,20,10443.1,1471.05,4,3,4,11,Loyal
+JS-15940,Joni Sundaresam,Home Office,6,15,3874.7599999999998,-26.749999999999986,5,3,3,11,Loyal
+JS-16030,Joy Smith,Consumer,22,32,19218.84,-675.4299999999998,4,5,5,14,Champions
+JS-5595,Jill Stevenson,Corporate,680,6,806.7,-723.75,1,2,1,4,Lost
+JS-5685,Jim Sink,Corporate,143,5,1944.06,502.44,1,1,2,4,Lost
+JS-5880,John Stevenson,Consumer,209,6,1745.99,-979.66,1,2,2,5,Lost
+JS-5940,Joni Sundaresam,Home Office,24,13,2927.35,38.74000000000001,4,3,2,9,Loyal
+JS-6030,Joy Smith,Consumer,219,4,1573.04,572.45,1,1,2,4,Lost
+JW-15220,Jane Waco,Corporate,13,34,23103.72,4115.14,4,5,5,14,Champions
+JW-15955,Joni Wasserman,Consumer,6,30,10640.83,624.8000000000001,5,5,4,14,Champions
+JW-16075,Julia West,Consumer,2,25,19852.76,2677.48,5,4,5,14,Champions
+JW-5220,Jane Waco,Corporate,101,6,7184.7300000000005,2150.7,2,2,3,7,Lost
+JW-5955,Joni Wasserman,Consumer,107,2,307.8,32.309999999999995,2,1,1,4,Lost
+JW-6075,Julia West,Consumer,267,4,747.21,272.52,1,1,1,3,Lost
+KA-16525,Kelly Andreada,Consumer,17,35,17449.91,1299.9,4,5,5,14,Champions
+KA-6525,Kelly Andreada,Consumer,94,7,1429.89,101.49,2,2,2,6,Lost
+KB-16240,Karen Bern,Corporate,5,27,9900.68,1801.54,5,4,4,13,Champions
+KB-16315,Karl Braun,Consumer,3,29,14542.73,1420.06,5,5,5,15,Champions
+KB-16405,Katrina Bavinger,Home Office,20,28,13786.11,723.9999999999999,4,5,4,13,Champions
+KB-16585,Ken Black,Corporate,94,27,16385.77,1398.24,2,4,5,11,At Risk
+KB-16600,Ken Brennan,Corporate,2,25,10295.960000000001,887.3499999999999,5,4,4,13,Champions
+KB-6240,Karen Bern,Corporate,202,7,1945.32,517.53,1,2,2,5,Lost
+KB-6315,Karl Braun,Consumer,23,11,2957.72,365.78000000000003,4,3,2,9,Loyal
+KB-6405,Katrina Bavinger,Home Office,388,3,238.54999999999998,-105.76,1,1,1,3,Lost
+KB-6585,Ken Black,Corporate,372,2,216.78000000000003,-47.19,1,1,1,3,Lost
+KB-6600,Ken Brennan,Corporate,10,11,1167.74,158.9,5,3,1,9,Loyal
+KC-16255,Karen Carlisle,Corporate,45,27,9321.95,2139.7000000000003,3,4,3,10,Loyal
+KC-16540,Kelly Collister,Consumer,42,25,18897.15,2343.9,3,4,5,12,Loyal
+KC-16675,Kimberly Carter,Corporate,3,23,13531.28,2265.88,5,4,4,13,Champions
+KC-6255,Karen Carlisle,Corporate,58,8,1094.3600000000001,-160.21,2,2,1,5,Lost
+KC-6540,Kelly Collister,Consumer,34,7,505.89,14.220000000000002,3,2,1,6,Needs Attention
+KC-6675,Kimberly Carter,Corporate,20,3,391.84,-120.95,4,1,1,6,Promising
+KD-16270,Karen Daniels,Consumer,37,29,23204.27,3914.23,3,5,5,13,Loyal
+KD-16345,Katherine Ducich,Consumer,42,15,11157.039999999999,2363.13,3,3,4,10,Loyal
+KD-16495,Keith Dawkins,Corporate,47,36,24996.5,5152.91,3,5,5,13,Loyal
+KD-16615,Ken Dana,Corporate,76,24,12348.460000000001,1720.54,2,4,4,10,At Risk
+KD-6270,Karen Daniels,Consumer,812,1,813.0600000000001,-1023.54,1,1,1,3,Lost
+KD-6345,Katherine Ducich,Consumer,58,6,536.46,65.7,2,2,1,5,Lost
+KD-6495,Keith Dawkins,Corporate,399,4,1454.76,333.21000000000004,1,1,2,4,Lost
+KD-6615,Ken Dana,Corporate,187,3,205.98,30.18,1,1,1,3,Lost
+KE-16420,Katrina Edelman,Corporate,27,31,12928.68,1186.15,4,5,4,13,Champions
+KE-6420,Katrina Edelman,Corporate,252,4,622.4499999999999,100.39,1,1,1,3,Lost
+KF-16285,Karen Ferguson,Home Office,38,21,15164.85,2976.36,3,3,5,11,Loyal
+KF-6285,Karen Ferguson,Home Office,33,9,3100.14,-591.21,3,3,2,8,Loyal
+KH-16330,Katharine Harms,Corporate,17,26,15045.65,3205.87,4,4,5,13,Champions
+KH-16360,Katherine Hughes,Consumer,2,28,9983.5,1542.22,5,5,4,14,Champions
+KH-16510,Keith Herrera,Consumer,23,26,15340.39,1713.81,4,4,5,13,Champions
+KH-16630,Ken Heidel,Corporate,9,27,7220.71,1205.68,5,4,3,12,Champions
+KH-16690,Kristen Hastings,Corporate,3,39,18158.46,2367.51,5,5,5,15,Champions
+KH-6330,Katharine Harms,Corporate,20,13,3371.22,405.17999999999995,4,3,3,10,Loyal
+KH-6360,Katherine Hughes,Consumer,101,7,2221.37,300.16999999999996,2,2,2,6,Lost
+KH-6510,Keith Herrera,Consumer,16,7,1544.34,483.03000000000003,4,2,2,8,Promising
+KH-6630,Ken Heidel,Corporate,327,5,1795.8600000000001,300.3,1,1,2,4,Lost
+KH-6690,Kristen Hastings,Corporate,239,7,1696.01,3.079999999999984,1,2,2,5,Lost
+KL-16555,Kelly Lampkin,Corporate,16,26,12064.380000000001,580.9200000000001,4,4,4,12,Champions
+KL-16645,Ken Lonsdale,Consumer,48,28,22553.11,812.61,3,5,5,13,Loyal
+KL-6555,Kelly Lampkin,Corporate,176,7,2184.06,157.83,1,2,2,5,Lost
+KL-6645,Ken Lonsdale,Consumer,1,5,1576.29,-657.72,5,1,2,8,Promising
+KM-16225,Kalyca Meade,Corporate,1,18,7754.54,227.25000000000003,5,3,3,11,Loyal
+KM-16375,Katherine Murray,Home Office,3,28,16394.45,1194.43,5,5,5,15,Champions
+KM-16660,Khloe Miller,Consumer,16,29,10785.29,888.38,4,5,4,13,Champions
+KM-16720,Kunst Miller,Consumer,29,23,14041.02,1637.17,3,4,4,11,Loyal
+KM-6225,Kalyca Meade,Corporate,372,3,891.36,142.29999999999998,1,1,1,3,Lost
+KM-6375,Katherine Murray,Home Office,322,5,2124.7000000000003,256.63,1,1,2,4,Lost
+KM-6660,Khloe Miller,Consumer,31,3,188.54,-40.449999999999996,3,1,1,5,Needs Attention
+KM-6720,Kunst Miller,Consumer,350,3,2928.66,1122.03,1,1,2,4,Lost
+KN-16390,Katherine Nockton,Corporate,20,29,19350.18,4067.84,4,5,5,14,Champions
+KN-16450,Kean Nguyen,Corporate,38,26,16294.71,2512.59,3,4,5,12,Loyal
+KN-16705,Kristina Nunn,Home Office,99,19,5884.78,935.51,2,3,3,8,At Risk
+KN-6390,Katherine Nockton,Corporate,274,3,318.72,77.37,1,1,1,3,Lost
+KN-6450,Kean Nguyen,Corporate,94,8,1767.28,-255.38,2,2,2,6,Lost
+KN-6705,Kristina Nunn,Home Office,124,5,4830.87,763.02,2,1,3,6,Lost
+KS-16300,Karen Seio,Corporate,36,21,5103.35,1079.97,3,3,3,9,Loyal
+KS-6300,Karen Seio,Corporate,107,4,221.61,33.69,2,1,1,4,Lost
+KT-16465,Kean Takahito,Consumer,44,32,15725.02,589.58,3,5,5,13,Loyal
+KT-16480,Kean Thornton,Consumer,28,20,6240.66,-156.15999999999997,3,3,3,9,Loyal
+KT-6465,Kean Takahito,Consumer,106,7,1532.1200000000001,398.0,2,2,2,6,Lost
+KT-6480,Kean Thornton,Consumer,85,7,2119.7400000000002,-461.76,2,2,2,6,Lost
+KW-16435,Katrina Willman,Consumer,27,23,15319.99,3026.07,4,4,5,13,Champions
+KW-16570,Kelly Williams,Consumer,23,34,9256.06,2191.56,4,5,3,12,Champions
+KW-6435,Katrina Willman,Consumer,148,4,427.28999999999996,80.97,1,1,1,3,Lost
+KW-6570,Kelly Williams,Consumer,49,6,2577.7200000000003,179.57999999999998,3,2,2,7,Needs Attention
+LA-16780,Laura Armstrong,Corporate,14,34,24273.0,3754.0,4,5,5,14,Champions
+LA-6780,Laura Armstrong,Corporate,2,12,3589.44,208.29000000000005,5,3,3,11,Loyal
+LB-16735,Larry Blacks,Consumer,10,29,12686.03,1566.23,5,5,4,14,Champions
+LB-16795,Laurel Beltran,Home Office,40,31,24589.89,4515.41,3,5,5,13,Loyal
+LB-6735,Larry Blacks,Consumer,138,7,1897.95,98.24999999999999,1,2,2,5,Lost
+LB-6795,Laurel Beltran,Home Office,57,8,1796.12,-212.14,2,2,2,6,Lost
+LC-16870,Lena Cacioppo,Consumer,28,21,9859.9,1048.3400000000001,3,3,4,10,Loyal
+LC-16885,Lena Creighton,Consumer,17,29,17058.81,1325.4700000000003,4,5,5,14,Champions
+LC-16930,Linda Cazamias,Corporate,42,26,11660.710000000001,1932.36,3,4,4,11,Loyal
+LC-16960,Lindsay Castell,Home Office,3,22,11812.08,1365.95,5,4,4,13,Champions
+LC-17050,Liz Carlisle,Consumer,5,23,12933.87,1150.05,5,4,4,13,Champions
+LC-17140,Logan Currie,Consumer,14,30,13128.24,1454.41,4,5,4,13,Champions
+LC-6870,Lena Cacioppo,Consumer,24,8,1220.45,128.42,4,2,1,7,Promising
+LC-6885,Lena Creighton,Consumer,210,9,1828.09,-152.96,1,3,2,6,At Risk
+LC-6930,Linda Cazamias,Corporate,72,9,5080.69,341.08,2,3,3,8,At Risk
+LC-6960,Lindsay Castell,Home Office,192,8,2487.4,54.72999999999995,1,2,2,5,Lost
+LC-7050,Liz Carlisle,Consumer,7,7,7193.65,1697.56,5,2,3,10,Promising
+LC-7140,Logan Currie,Consumer,17,6,2954.43,470.88,4,2,2,8,Promising
+LD-16855,Lela Donovan,Corporate,43,30,13361.949999999999,1813.21,3,5,4,12,Loyal
+LD-17005,Lisa DeCherney,Consumer,50,27,11461.64,1252.6200000000001,2,4,4,10,At Risk
+LD-6855,Lela Donovan,Corporate,81,8,2822.71,-326.45000000000005,2,2,2,6,Lost
+LD-7005,Lisa DeCherney,Consumer,44,6,361.69,-87.2,3,2,1,6,Needs Attention
+LE-16810,Laurel Elliston,Consumer,15,24,10429.24,1737.1,4,4,4,12,Champions
+LE-6810,Laurel Elliston,Consumer,64,6,1049.52,287.91,2,2,1,5,Lost
+LF-17185,Luke Foster,Consumer,23,22,12864.77,-3700.17,4,4,4,12,Champions
+LF-7185,Luke Foster,Consumer,178,5,556.52,55.849999999999994,1,1,1,3,Lost
+LH-16750,Larry Hughes,Consumer,13,22,7945.09,597.0200000000001,4,4,3,11,Champions
+LH-16900,Lena Hernandez,Consumer,22,29,12098.34,995.3900000000001,4,5,4,13,Champions
+LH-17020,Lisa Hazard,Consumer,42,18,8189.780000000001,1040.3400000000001,3,3,3,9,Loyal
+LH-17155,Logan Haushalter,Consumer,76,29,14063.5,749.0999999999999,2,5,4,11,At Risk
+LH-6750,Larry Hughes,Consumer,126,5,745.65,44.18999999999998,1,1,1,3,Lost
+LH-6900,Lena Hernandez,Consumer,307,3,840.79,1.9899999999999614,1,1,1,3,Lost
+LH-7020,Lisa Hazard,Consumer,59,3,973.21,297.73,2,1,1,4,Lost
+LH-7155,Logan Haushalter,Consumer,128,8,3228.75,770.4599999999999,1,2,3,6,Lost
+LL-16840,Lauren Leatherbury,Consumer,27,26,11287.79,264.61000000000007,4,4,4,12,Champions
+LL-6840,Lauren Leatherbury,Consumer,36,9,3649.15,630.34,3,3,3,9,Loyal
+LM-17065,Liz MacKendrick,Consumer,85,18,9249.38,393.46,2,3,3,8,At Risk
+LM-7065,Liz MacKendrick,Consumer,8,4,6280.47,1474.6799999999998,5,1,3,9,Promising
+LO-17170,Lori Olson,Corporate,3,28,11256.31,2319.69,5,5,4,14,Champions
+LO-7170,Lori Olson,Corporate,5,7,2281.18,-530.99,5,2,2,9,Promising
+LP-17080,Liz Pelletier,Consumer,41,24,7631.98,-261.9299999999999,3,4,3,10,Loyal
+LP-17095,Liz Preis,Consumer,10,26,15598.14,2003.33,5,4,5,14,Champions
+LP-7080,Liz Pelletier,Consumer,185,7,1831.34,-3.639999999999997,1,2,2,5,Lost
+LP-7095,Liz Preis,Consumer,1,4,1011.36,119.37,5,1,1,7,Promising
+LR-16915,Lena Radford,Consumer,27,26,22434.09,3604.46,4,4,5,13,Champions
+LR-17035,Lisa Ryan,Corporate,46,26,16118.949999999999,2165.7,3,4,5,12,Loyal
+LR-6915,Lena Radford,Consumer,685,3,468.66,-232.74,1,1,1,3,Lost
+LR-7035,Lisa Ryan,Corporate,107,9,2677.98,283.44,2,3,2,7,At Risk
+LS-16945,Linda Southworth,Corporate,28,20,10420.12,-86.50999999999998,3,3,4,10,Loyal
+LS-16975,Lindsay Shagiari,Home Office,21,22,8646.9,1737.85,4,4,3,11,Champions
+LS-17200,Luke Schmidt,Corporate,16,24,15258.75,1756.45,4,4,5,13,Champions
+LS-17230,Lycoris Saunders,Consumer,5,24,10577.18,1946.7,5,4,4,13,Champions
+LS-17245,Lynn Smith,Consumer,35,24,10759.0,1878.19,3,4,4,11,Loyal
+LS-6945,Linda Southworth,Corporate,7,12,2726.03,18.650000000000027,5,3,2,10,Loyal
+LS-6975,Lindsay Shagiari,Home Office,179,5,716.1899999999999,40.2,1,1,1,3,Lost
+LS-7200,Luke Schmidt,Corporate,384,4,340.65999999999997,-102.47,1,1,1,3,Lost
+LS-7230,Lycoris Saunders,Consumer,100,10,1164.34,-569.3,2,3,1,6,At Risk
+LS-7245,Lynn Smith,Consumer,218,6,953.15,-380.05,1,2,1,4,Lost
+LT-16765,Larry Tron,Consumer,7,30,17253.78,3948.65,5,5,5,15,Champions
+LT-17110,Liz Thompson,Consumer,35,26,12986.77,1382.29,3,4,4,11,Loyal
+LT-6765,Larry Tron,Consumer,9,4,1365.33,264.99,5,1,1,7,Promising
+LT-7110,Liz Thompson,Consumer,56,6,8234.99,1764.14,2,2,3,7,Lost
+LW-16825,Laurel Workman,Corporate,23,20,9990.84,981.99,4,3,4,11,Loyal
+LW-16990,Lindsay Williams,Corporate,24,23,9111.86,1335.35,4,4,3,11,Champions
+LW-17125,Liz Willingham,Consumer,42,16,5369.2699999999995,518.0600000000001,3,3,3,9,Loyal
+LW-17215,Luke Weiss,Consumer,22,24,10529.5,994.55,4,4,4,12,Champions
+LW-6825,Laurel Workman,Corporate,33,11,881.75,166.79,3,3,1,7,Loyal
+LW-6990,Lindsay Williams,Corporate,15,11,1869.77,151.57999999999998,4,3,2,9,Loyal
+LW-7125,Liz Willingham,Consumer,34,9,2677.34,881.99,3,3,2,8,Loyal
+LW-7215,Luke Weiss,Consumer,133,5,1522.01,-145.17999999999998,1,1,2,4,Lost
+MA-17560,Matt Abelman,Home Office,65,24,10813.78,784.07,2,4,4,10,At Risk
+MA-17995,Michelle Arnett,Home Office,43,22,10006.460000000001,889.32,3,4,4,11,Loyal
+MA-7560,Matt Abelman,Home Office,233,4,1628.17,-264.17,1,1,2,4,Lost
+MA-7995,Michelle Arnett,Home Office,17,11,1928.0,213.35,4,3,2,9,Loyal
+MB-17305,Maria Bertelson,Consumer,2,27,16729.36,3481.42,5,4,5,14,Champions
+MB-18085,Mick Brown,Consumer,45,30,14744.23,2236.29,3,5,5,13,Loyal
+MB-7305,Maria Bertelson,Consumer,23,8,4874.59,1140.94,4,2,3,9,Promising
+MB-8085,Mick Brown,Consumer,12,8,1703.51,359.66,4,2,2,8,Promising
+MC-17275,Marc Crier,Consumer,45,34,11680.05,1463.1,3,5,4,12,Loyal
+MC-17425,Mark Cousins,Corporate,24,30,15055.4,3980.56,4,5,5,14,Champions
+MC-17575,Matt Collins,Consumer,28,33,14281.67,966.0400000000001,3,5,5,13,Loyal
+MC-17590,Matt Collister,Corporate,52,25,10118.82,1337.6,2,4,4,10,At Risk
+MC-17605,Matt Connell,Corporate,50,26,13019.21,1296.28,2,4,4,10,At Risk
+MC-17635,Matthew Clasen,Corporate,6,34,21113.5,3529.48,5,5,5,15,Champions
+MC-17845,Michael Chen,Consumer,2,31,14947.87,1064.3,5,5,5,15,Champions
+MC-18100,Mick Crebagga,Consumer,42,33,11353.75,130.72000000000003,3,5,4,12,Loyal
+MC-18130,Mike Caudle,Corporate,52,23,8532.68,717.13,2,4,3,9,At Risk
+MC-7275,Marc Crier,Consumer,236,5,4301.04,650.4,1,1,3,5,Lost
+MC-7425,Mark Cousins,Corporate,36,5,1489.84,-1129.31,3,1,2,6,Needs Attention
+MC-7575,Matt Collins,Consumer,10,8,3619.19,783.32,5,2,3,10,Promising
+MC-7590,Matt Collister,Corporate,337,3,1554.06,569.58,1,1,2,4,Lost
+MC-7605,Matt Connell,Corporate,196,2,208.41,70.67999999999999,1,1,1,3,Lost
+MC-7635,Matthew Clasen,Corporate,665,4,695.29,113.8,1,1,1,3,Lost
+MC-7845,Michael Chen,Consumer,35,4,991.73,148.7,3,1,1,5,Needs Attention
+MC-8100,Mick Crebagga,Consumer,105,3,659.34,205.44,2,1,1,4,Lost
+MC-8130,Mike Caudle,Corporate,288,5,826.35,79.47,1,1,1,3,Lost
+MD-17350,Maribeth Dona,Consumer,27,30,16455.35,1040.93,4,5,5,14,Champions
+MD-17860,Michael Dominguez,Corporate,37,28,15575.65,1596.3200000000002,3,5,5,13,Loyal
+MD-7350,Maribeth Dona,Consumer,83,6,1374.2,189.68,2,2,2,6,Lost
+MD-7860,Michael Dominguez,Corporate,104,5,6853.51,2176.09,2,1,3,6,Lost
+ME-17320,Maria Etezadi,Home Office,6,30,24527.02,3359.63,5,5,5,15,Champions
+ME-17725,Max Engle,Consumer,29,28,7839.89,323.48,3,5,3,11,Loyal
+ME-18010,Michelle Ellison,Corporate,43,27,10547.62,639.3000000000001,3,4,4,11,Loyal
+ME-7320,Maria Etezadi,Home Office,21,10,1720.18,58.900000000000006,4,3,2,9,Loyal
+ME-7725,Max Engle,Consumer,12,11,2083.88,349.79,4,3,2,9,Loyal
+ME-8010,Michelle Ellison,Corporate,393,1,160.5,15.9,1,1,1,3,Lost
+MF-17665,Maureen Fritzler,Corporate,52,29,13366.55,1417.47,2,5,4,11,At Risk
+MF-18250,Monica Federle,Corporate,8,32,20425.3,2272.42,5,5,5,15,Champions
+MF-7665,Maureen Fritzler,Corporate,49,3,161.91,3.42,3,1,1,5,Needs Attention
+MF-8250,Monica Federle,Corporate,63,6,1517.5500000000002,300.93,2,2,2,6,Lost
+MG-17650,Matthew Grinstein,Home Office,20,21,12717.28,2178.18,4,3,4,11,Loyal
+MG-17680,Maureen Gastineau,Home Office,37,28,16061.66,892.4399999999999,3,5,5,13,Loyal
+MG-17695,Maureen Gnade,Consumer,1,25,16221.630000000001,760.89,5,4,5,14,Champions
+MG-17875,Michael Grace,Home Office,6,33,14452.83,-133.46999999999997,5,5,5,15,Champions
+MG-17890,Michael Granlund,Home Office,6,29,13162.23,-977.31,5,5,4,14,Champions
+MG-18145,Mike Gockenbach,Consumer,3,24,18147.95,4668.13,5,4,5,14,Champions
+MG-18205,Mitch Gastineau,Corporate,3,29,16362.9,1540.23,5,5,5,15,Champions
+MG-7650,Matthew Grinstein,Home Office,496,1,301.71,27.15,1,1,1,3,Lost
+MG-7680,Maureen Gastineau,Home Office,75,9,4298.47,-151.24000000000004,2,3,3,8,At Risk
+MG-7695,Maureen Gnade,Consumer,336,7,2104.59,84.78,1,2,2,5,Lost
+MG-7875,Michael Grace,Home Office,404,1,80.19,15.87,1,1,1,3,Lost
+MG-7890,Michael Granlund,Home Office,374,1,19.13,-22.48,1,1,1,3,Lost
+MG-8145,Mike Gockenbach,Consumer,282,3,5229.11,1790.51,1,1,3,5,Lost
+MG-8205,Mitch Gastineau,Corporate,2,7,1648.94,282.20000000000005,5,2,2,9,Promising
+MH-17290,Marc Harrigan,Home Office,38,25,13718.68,1950.62,3,4,4,11,Loyal
+MH-17440,Mark Haberlin,Corporate,9,25,7945.05,771.44,5,4,3,12,Champions
+MH-17455,Mark Hamilton,Consumer,55,27,9974.26,155.8999999999999,2,4,4,10,At Risk
+MH-17620,Matt Hagelstein,Corporate,24,20,11038.32,106.87000000000008,4,3,4,11,Loyal
+MH-17785,Maya Herman,Corporate,1,26,11676.130000000001,1185.03,5,4,4,13,Champions
+MH-18025,Michelle Huthwaite,Consumer,21,19,11753.7,1010.92,4,3,4,11,Loyal
+MH-18115,Mick Hernandez,Home Office,6,26,12017.1,1250.67,5,4,4,13,Champions
+MH-7290,Marc Harrigan,Home Office,738,3,1685.34,365.40000000000003,1,1,2,4,Lost
+MH-7440,Mark Haberlin,Corporate,97,8,3357.7799999999997,780.5699999999999,2,2,3,7,Lost
+MH-7455,Mark Hamilton,Consumer,93,10,4747.37,371.15999999999997,2,3,3,8,At Risk
+MH-7620,Matt Hagelstein,Corporate,246,7,1179.6699999999998,168.01,1,2,1,4,Lost
+MH-7785,Maya Herman,Corporate,8,9,1914.83,285.5,5,3,2,10,Loyal
+MH-8025,Michelle Huthwaite,Consumer,15,9,1095.42,-149.76000000000002,4,3,1,8,Loyal
+MH-8115,Mick Hernandez,Home Office,59,7,1260.7,237.52,2,2,1,5,Lost
+MJ-17740,Max Jones,Consumer,22,26,15347.66,2054.64,4,4,5,13,Champions
+MJ-7740,Max Jones,Consumer,160,4,1136.9,382.97,1,1,1,3,Lost
+MK-17905,Michael Kennedy,Corporate,22,31,13202.44,-139.16999999999993,4,5,4,13,Champions
+MK-18160,Mike Kennedy,Consumer,23,20,10043.32,317.57,4,3,4,11,Loyal
+MK-7905,Michael Kennedy,Corporate,150,11,1244.94,-71.46000000000001,1,3,1,5,At Risk
+MK-8160,Mike Kennedy,Consumer,41,10,2697.07,441.04,3,3,2,8,Loyal
+ML-17395,Marina Lichtenstein,Corporate,1,25,14507.07,1141.98,5,4,5,14,Champions
+ML-17410,Maris LaWare,Consumer,34,30,14981.71,1338.58,3,5,5,13,Loyal
+ML-17755,Max Ludwig,Home Office,2,28,14425.11,1577.44,5,5,5,15,Champions
+ML-18040,Michelle Lonsdale,Corporate,8,19,8677.6,1646.94,5,3,3,11,Loyal
+ML-18265,Muhammed Lee,Consumer,101,26,14674.0,2037.59,2,4,5,11,At Risk
+ML-7395,Marina Lichtenstein,Corporate,133,7,1049.4,142.26000000000002,1,2,1,4,Lost
+ML-7410,Maris LaWare,Consumer,170,3,193.14000000000001,-184.44,1,1,1,3,Lost
+ML-7755,Max Ludwig,Home Office,27,7,1108.5,260.34,4,2,1,7,Promising
+ML-8040,Michelle Lonsdale,Corporate,45,7,1690.9,315.91,3,2,2,7,Needs Attention
+ML-8265,Muhammed Lee,Consumer,9,9,1170.71,276.77,5,3,1,9,Loyal
+MM-17260,Magdelene Morse,Consumer,5,26,15713.72,3160.31,5,4,5,14,Champions
+MM-17920,Michael Moore,Consumer,8,33,20383.65,1824.2,5,5,5,15,Champions
+MM-18055,Michelle Moray,Consumer,16,25,11163.59,1901.27,4,4,4,12,Champions
+MM-18280,Muhammed MacIntyre,Corporate,13,25,7134.3,1877.07,4,4,3,11,Champions
+MM-7260,Magdelene Morse,Consumer,132,5,5510.36,1220.42,1,1,3,5,Lost
+MM-7920,Michael Moore,Consumer,29,6,1350.03,234.69,3,2,1,6,Needs Attention
+MM-8055,Michelle Moray,Consumer,34,8,1924.9,-638.52,3,2,2,7,Needs Attention
+MM-8280,Muhammed MacIntyre,Corporate,72,10,3586.7,289.40000000000003,2,3,3,8,At Risk
+MN-17935,Michael Nguyen,Consumer,9,21,12870.93,1517.15,5,3,4,12,Loyal
+MN-7935,Michael Nguyen,Consumer,31,6,2175.32,-124.99,3,2,2,7,Needs Attention
+MO-17500,Mary O'Rourke,Consumer,37,24,10314.41,573.4599999999999,3,4,4,11,Loyal
+MO-17800,Meg O'Connel,Home Office,7,25,13709.119999999999,2638.81,5,4,4,13,Champions
+MO-17950,Michael Oakman,Consumer,7,14,4527.39,34.12000000000001,5,3,3,11,Loyal
+MO-7500,Mary O'Rourke,Consumer,282,5,810.8699999999999,-54.45,1,1,1,3,Lost
+MO-7800,Meg O'Connel,Home Office,15,9,4294.26,465.27000000000004,4,3,3,10,Loyal
+MO-7950,Michael Oakman,Consumer,99,3,933.1899999999999,252.13,2,1,1,4,Lost
+MP-17470,Mark Packer,Home Office,6,28,12928.800000000001,2231.38,5,5,4,14,Champions
+MP-17965,Michael Paige,Corporate,28,39,17228.51,1455.19,3,5,5,13,Loyal
+MP-18175,Mike Pelletier,Home Office,17,36,22045.26,455.33,4,5,5,14,Champions
+MP-7470,Mark Packer,Home Office,544,2,58.11,-58.379999999999995,1,1,1,3,Lost
+MP-7965,Michael Paige,Corporate,197,8,567.0899999999999,177.48,1,2,1,4,Lost
+MP-8175,Mike Pelletier,Home Office,91,6,2169.17,77.30000000000005,2,2,2,6,Lost
+MR-17545,Mathew Reese,Home Office,98,23,19246.73,3060.92,2,4,5,11,At Risk
+MR-7545,Mathew Reese,Home Office,101,6,2325.24,650.3100000000001,2,2,2,6,Lost
+MS-17365,Maribeth Schnelling,Consumer,6,34,20317.01,3300.33,5,5,5,15,Champions
+MS-17530,MaryBeth Skach,Consumer,16,25,13335.07,2150.47,4,4,4,12,Champions
+MS-17710,Maurice Satty,Consumer,30,26,8500.62,1057.94,3,4,3,10,Loyal
+MS-17770,Maxwell Schwartz,Consumer,35,36,17382.94,2685.69,3,5,5,13,Loyal
+MS-17830,Melanie Seite,Consumer,24,26,11783.41,1765.41,4,4,4,12,Champions
+MS-17980,Michael Stewart,Corporate,27,27,16210.56,834.6,3,4,5,12,Loyal
+MS-7365,Maribeth Schnelling,Consumer,112,5,1365.54,229.02,2,1,1,4,Lost
+MS-7530,MaryBeth Skach,Consumer,52,8,1456.82,-163.06,2,2,2,6,Lost
+MS-7710,Maurice Satty,Consumer,64,8,1529.46,94.8,2,2,2,6,Lost
+MS-7770,Maxwell Schwartz,Consumer,99,6,538.56,166.11,2,2,1,5,Lost
+MS-7830,Melanie Seite,Consumer,5,8,4322.9,294.90000000000003,5,2,3,10,Promising
+MS-7980,Michael Stewart,Corporate,7,5,1654.6399999999999,412.73,5,1,2,8,Promising
+MT-17815,Meg Tillman,Consumer,50,27,13845.529999999999,1295.0,2,4,4,10,At Risk
+MT-18070,Michelle Tran,Home Office,128,24,10920.36,1203.54,1,4,4,9,At Risk
+MT-7815,Meg Tillman,Consumer,177,6,1500.59,-501.5799999999999,1,2,2,5,Lost
+MT-8070,Michelle Tran,Home Office,324,7,6851.93,-2991.61,1,2,3,6,Lost
+MV-17485,Mark Van Huff,Consumer,17,27,10563.35,1650.8799999999999,4,4,4,12,Champions
+MV-18190,Mike Vittorini,Consumer,20,30,15577.04,1178.6299999999999,4,5,5,14,Champions
+MV-7485,Mark Van Huff,Consumer,471,5,952.54,159.76,1,1,1,3,Lost
+MV-8190,Mike Vittorini,Consumer,8,8,3995.04,181.38000000000002,5,2,3,10,Promising
+MW-18220,Mitch Webber,Consumer,18,28,20592.09,3596.32,4,5,5,14,Champions
+MW-18235,Mitch Willingham,Corporate,17,24,17933.07,-180.22999999999996,4,4,5,13,Champions
+MW-8220,Mitch Webber,Consumer,45,8,2476.5,490.23,3,2,2,7,Needs Attention
+MW-8235,Mitch Willingham,Corporate,1,6,1070.77,325.75,5,2,1,8,Promising
+MY-17380,Maribeth Yedwab,Corporate,30,28,14724.15,2926.34,3,5,5,13,Loyal
+MY-18295,Muhammed Yedwab,Corporate,1,29,25570.49,2553.67,5,5,5,15,Champions
+MY-7380,Maribeth Yedwab,Corporate,323,4,1745.58,633.18,1,1,2,4,Lost
+MY-8295,Muhammed Yedwab,Corporate,44,10,4072.16,88.98000000000002,3,3,3,9,Loyal
+MZ-17335,Maria Zettner,Home Office,22,26,14463.95,1794.61,4,4,5,13,Champions
+MZ-17515,Mary Zewe,Corporate,24,25,13383.97,1454.6299999999999,4,4,4,12,Champions
+MZ-7335,Maria Zettner,Home Office,113,5,3494.23,459.91,2,1,3,6,Lost
+MZ-7515,Mary Zewe,Corporate,79,9,3193.16,428.41999999999996,2,3,3,8,At Risk
+NB-18580,Nicole Brennan,Corporate,453,10,4875.59,-105.25999999999999,1,3,3,7,At Risk
+NB-18655,Nona Balk,Corporate,20,22,9647.23,1537.08,4,4,3,11,Champions
+NB-8580,Nicole Brennan,Corporate,429,7,1059.47,-586.1800000000001,1,2,1,4,Lost
+NB-8655,Nona Balk,Corporate,111,5,434.62,-83.66,2,1,1,4,Lost
+NC-18340,Nat Carroll,Consumer,6,22,13905.35,-996.2599999999999,5,4,4,13,Champions
+NC-18415,Nathan Cano,Consumer,40,19,9255.78,-771.6600000000002,3,3,3,9,Loyal
+NC-18535,Nick Crebassa,Corporate,7,22,11054.38,1414.99,5,4,4,13,Champions
+NC-18625,Noah Childs,Corporate,21,29,16901.52,2229.91,4,5,5,14,Champions
+NC-8340,Nat Carroll,Consumer,36,9,2707.96,535.36,3,3,2,8,Loyal
+NC-8415,Nathan Cano,Consumer,107,5,1503.4299999999998,46.66000000000003,2,1,2,5,Lost
+NC-8535,Nick Crebassa,Corporate,139,7,1250.8799999999999,-79.59000000000002,1,2,1,4,Lost
+NC-8625,Noah Childs,Corporate,462,2,442.32,33.0,1,1,1,3,Lost
+ND-18370,Natalie DeCherney,Consumer,13,23,10913.14,1970.25,4,4,4,12,Champions
+ND-18460,Neil Ducich,Corporate,6,22,12061.43,2197.42,5,4,4,13,Champions
+ND-8370,Natalie DeCherney,Consumer,34,6,2790.23,650.0,3,2,2,7,Needs Attention
+ND-8460,Neil Ducich,Corporate,9,10,2722.98,971.4200000000001,5,3,2,10,Loyal
+NF-18385,Natalie Fritzler,Consumer,8,32,28044.37,1362.3000000000004,5,5,5,15,Champions
+NF-18475,Neil Französisch,Home Office,7,22,10630.93,2633.75,5,4,4,13,Champions
+NF-18595,Nicole Fjeld,Home Office,12,22,10535.31,1438.94,4,4,4,12,Champions
+NF-8385,Natalie Fritzler,Consumer,2,11,3736.92,180.57000000000005,5,3,3,11,Loyal
+NF-8475,Neil Französisch,Home Office,44,7,2019.0,286.28999999999996,3,2,2,7,Needs Attention
+NF-8595,Nicole Fjeld,Home Office,513,5,1731.93,-67.41,1,1,2,4,Lost
+NG-18355,Nat Gilpin,Corporate,49,21,9262.7,1826.68,3,3,3,9,Loyal
+NG-18430,Nathan Gelder,Consumer,28,28,18970.43,3320.72,3,5,5,13,Loyal
+NG-8355,Nat Gilpin,Corporate,104,7,2746.47,979.74,2,2,2,6,Lost
+NG-8430,Nathan Gelder,Consumer,19,8,3749.83,890.53,4,2,3,9,Promising
+NH-18610,Nicole Hansen,Corporate,21,22,19181.95,3867.63,4,4,5,13,Champions
+NH-8610,Nicole Hansen,Corporate,6,6,2121.52,207.85000000000002,5,2,2,9,Promising
+NK-18490,Neil Knudson,Home Office,27,24,11483.18,2309.4900000000002,3,4,4,11,Loyal
+NK-8490,Neil Knudson,Home Office,207,4,2395.35,731.04,1,1,2,4,Lost
+NL-18310,Nancy Lomonaco,Home Office,26,25,10587.32,-593.2799999999999,4,4,4,12,Champions
+NL-8310,Nancy Lomonaco,Home Office,576,2,251.33,26.36,1,1,1,3,Lost
+NM-18445,Nathan Mautz,Home Office,31,32,20223.22,5095.15,3,5,5,13,Loyal
+NM-18520,Neoma Murray,Consumer,20,27,12328.62,2631.06,4,4,4,12,Champions
+NM-8445,Nathan Mautz,Home Office,34,9,4053.7200000000003,693.96,3,3,3,9,Loyal
+NM-8520,Neoma Murray,Consumer,159,1,1540.53,511.65,1,1,2,4,Lost
+NP-18325,Naresj Patel,Consumer,2,25,11778.47,1772.78,5,4,4,13,Champions
+NP-18670,Nora Paige,Consumer,59,19,12839.01,2741.6,2,3,4,9,At Risk
+NP-18685,Nora Pelletier,Home Office,15,30,11363.46,308.27,4,5,4,13,Champions
+NP-18700,Nora Preis,Consumer,29,27,14036.44,609.7099999999999,3,4,4,11,Loyal
+NP-8325,Naresj Patel,Consumer,16,8,1336.69,31.539999999999985,4,2,1,7,Promising
+NP-8670,Nora Paige,Consumer,227,6,2871.87,294.06,1,2,2,5,Lost
+NP-8685,Nora Pelletier,Home Office,115,4,4994.849999999999,1250.76,2,1,3,6,Lost
+NP-8700,Nora Preis,Consumer,38,6,1880.62,-234.13999999999996,3,2,2,7,Needs Attention
+NR-18550,Nick Radford,Consumer,3,26,10993.4,1206.9199999999998,5,4,4,13,Champions
+NR-8550,Nick Radford,Consumer,15,8,1898.49,463.05,4,2,2,8,Promising
+NS-18505,Neola Schneider,Consumer,7,25,14834.3,479.08000000000004,5,4,5,14,Champions
+NS-18640,Noel Staavos,Corporate,37,37,14866.09,1116.07,3,5,5,13,Loyal
+NS-8505,Neola Schneider,Consumer,14,5,962.87,-1166.53,4,1,1,6,Promising
+NS-8640,Noel Staavos,Corporate,48,8,1771.4399999999998,-297.33,3,2,2,7,Needs Attention
+NW-18400,Natalie Webber,Consumer,173,26,15326.82,2085.48,1,4,5,10,At Risk
+NW-8400,Natalie Webber,Consumer,118,7,7046.7300000000005,1736.04,2,2,3,7,Lost
+NZ-18565,Nick Zandusky,Home Office,86,26,19941.71,2257.83,2,4,5,11,At Risk
+NZ-8565,Nick Zandusky,Home Office,100,4,328.59,-166.56,2,1,1,4,Lost
+ON-18715,Odella Nelson,Corporate,48,33,17763.94,3779.17,3,5,5,13,Loyal
+ON-8715,Odella Nelson,Corporate,460,5,1507.76,-995.86,1,1,2,4,Lost
+OT-18730,Olvera Toch,Consumer,34,32,19493.77,1797.74,3,5,5,13,Loyal
+OT-8730,Olvera Toch,Consumer,243,4,265.05,33.239999999999995,1,1,1,3,Lost
+PA-19060,Pete Armstrong,Home Office,24,21,6723.23,647.89,4,3,3,10,Loyal
+PA-9060,Pete Armstrong,Home Office,178,6,3670.58,907.4599999999999,1,2,3,6,Lost
+PB-18805,Patrick Bzostek,Home Office,9,19,12075.39,1479.57,5,3,4,12,Loyal
+PB-19105,Peter Bühler,Consumer,58,16,8087.79,1615.65,2,3,3,8,At Risk
+PB-19150,Philip Brown,Consumer,6,33,7907.26,460.19000000000005,5,5,3,13,Champions
+PB-19210,Phillip Breyer,Corporate,9,27,18967.66,2313.67,5,4,5,14,Champions
+PB-8805,Patrick Bzostek,Home Office,121,9,2787.66,263.49,2,3,2,7,At Risk
+PB-9105,Peter Bühler,Consumer,1,4,1808.21,320.54,5,1,2,8,Promising
+PB-9150,Philip Brown,Consumer,42,10,3478.4500000000003,811.66,3,3,3,9,Loyal
+PB-9210,Phillip Breyer,Corporate,308,7,5302.2,-909.72,1,2,3,6,Lost
+PC-18745,Pamela Coakley,Corporate,3,21,10693.49,-904.35,5,3,4,12,Loyal
+PC-19000,Pauline Chand,Home Office,22,18,9474.050000000001,519.5999999999999,4,3,3,10,Loyal
+PC-8745,Pamela Coakley,Corporate,58,5,1246.56,484.22999999999996,2,1,1,4,Lost
+PC-9000,Pauline Chand,Home Office,573,4,1160.43,313.71,1,1,1,3,Lost
+PF-19120,Peter Fuller,Consumer,85,28,27993.05,623.4,2,5,5,12,At Risk
+PF-19165,Philip Fox,Consumer,92,36,16018.84,1486.32,2,5,5,12,At Risk
+PF-19225,Phillip Flathmann,Consumer,3,30,11915.2,1613.62,5,5,4,14,Champions
+PF-9120,Peter Fuller,Consumer,84,10,1882.95,439.89,2,3,2,7,At Risk
+PF-9165,Philip Fox,Consumer,35,7,2007.64,422.53,3,2,2,7,Needs Attention
+PF-9225,Phillip Flathmann,Consumer,15,7,1474.28,-672.76,4,2,2,8,Promising
+PG-18820,Patrick Gardner,Consumer,21,35,14635.92,1626.93,4,5,5,14,Champions
+PG-18895,Paul Gonzalez,Consumer,3,28,13941.66,1270.08,5,5,4,14,Champions
+PG-8820,Patrick Gardner,Consumer,31,6,1846.56,348.27000000000004,3,2,2,7,Needs Attention
+PG-8895,Paul Gonzalez,Consumer,300,6,1981.3,350.08,1,2,2,5,Lost
+PH-18790,Patricia Hirasaki,Home Office,58,19,9435.56,2390.07,2,3,3,8,At Risk
+PH-8790,Patricia Hirasaki,Home Office,115,8,1746.8400000000001,353.54999999999995,2,2,2,6,Lost
+PJ-18835,Patrick Jones,Corporate,40,19,13639.52,4889.28,3,3,4,10,Loyal
+PJ-19015,Pauline Johnson,Consumer,20,22,9230.87,1212.8200000000002,4,4,3,11,Champions
+PJ-8835,Patrick Jones,Corporate,43,6,801.41,-870.13,3,2,1,6,Needs Attention
+PJ-9015,Pauline Johnson,Consumer,197,8,6612.65,889.6700000000001,1,2,3,6,Lost
+PK-18910,Paul Knutson,Home Office,99,16,7282.55,319.14,2,3,3,8,At Risk
+PK-19075,Pete Kriz,Consumer,9,29,17668.94,2170.2599999999998,5,5,5,15,Champions
+PK-8910,Paul Knutson,Home Office,122,4,948.45,-627.66,2,1,1,4,Lost
+PK-9075,Pete Kriz,Consumer,495,3,992.79,-505.68,1,1,1,3,Lost
+PL-18925,Paul Lucas,Home Office,16,20,14256.72,1782.96,4,3,5,12,Loyal
+PL-8925,Paul Lucas,Home Office,50,3,759.21,223.53000000000003,2,1,1,4,Lost
+PM-18940,Paul MacIntyre,Consumer,22,23,12893.61,926.34,4,4,4,12,Champions
+PM-19135,Peter McVee,Home Office,13,22,9857.66,648.86,4,4,4,12,Champions
+PM-8940,Paul MacIntyre,Consumer,56,9,1448.86,252.07000000000002,2,3,2,7,At Risk
+PM-9135,Peter McVee,Home Office,302,6,1429.3,369.78999999999996,1,2,2,5,Lost
+PN-18775,Parhena Norris,Home Office,16,33,11370.49,1729.76,4,5,4,13,Champions
+PN-8775,Parhena Norris,Home Office,54,5,1522.1100000000001,475.71,2,1,2,5,Lost
+PO-18850,Patrick O'Brill,Consumer,5,41,25274.48,3249.29,5,5,5,15,Champions
+PO-18865,Patrick O'Donnell,Consumer,1,35,21051.06,4698.63,5,5,5,15,Champions
+PO-19180,Philisse Overcash,Home Office,161,24,16753.16,2556.75,1,4,5,10,At Risk
+PO-19195,Phillina Ober,Home Office,87,21,10872.0,-1667.6799999999998,2,3,4,9,At Risk
+PO-8850,Patrick O'Brill,Consumer,128,4,1432.99,529.09,1,1,2,4,Lost
+PO-8865,Patrick O'Donnell,Consumer,353,6,2973.14,-80.52999999999997,1,2,2,5,Lost
+PO-9180,Philisse Overcash,Home Office,30,9,1231.06,-380.95000000000005,3,3,1,7,Loyal
+PO-9195,Phillina Ober,Home Office,34,8,8227.36,641.59,3,2,3,8,Needs Attention
+PP-18955,Paul Prost,Home Office,55,30,21884.19,2902.42,2,5,5,12,At Risk
+PP-8955,Paul Prost,Home Office,15,3,359.06,-214.66,4,1,1,6,Promising
+PR-18880,Patrick Ryan,Consumer,26,29,13243.61,1362.81,4,5,4,13,Champions
+PR-8880,Patrick Ryan,Consumer,197,5,1085.6200000000001,-953.72,1,1,1,3,Lost
+PS-18760,Pamela Stobb,Consumer,30,28,15926.54,1485.2900000000002,3,5,5,13,Loyal
+PS-18970,Paul Stevenson,Home Office,28,33,18222.4,2205.43,3,5,5,13,Loyal
+PS-19045,Penelope Sewall,Home Office,21,26,29252.33,4426.2,4,4,5,13,Champions
+PS-8760,Pamela Stobb,Consumer,348,5,1706.2,-192.19999999999993,1,1,2,4,Lost
+PS-8970,Paul Stevenson,Home Office,125,4,1395.95,-371.23,2,1,2,5,Lost
+PS-9045,Penelope Sewall,Home Office,62,7,829.36,-87.38,2,2,1,5,Lost
+PT-19090,Pete Takahito,Consumer,7,25,8370.78,216.65999999999994,5,4,3,12,Champions
+PT-9090,Pete Takahito,Consumer,3,5,4686.03,393.03,5,1,3,9,Promising
+PV-18985,Paul Van Hugh,Home Office,9,28,12540.66,2531.16,5,5,4,14,Champions
+PV-8985,Paul Van Hugh,Home Office,145,6,6390.63,1524.4199999999998,1,2,3,6,Lost
+PW-19030,Pauline Webber,Corporate,8,31,12810.06,2322.41,5,5,4,14,Champions
+PW-19240,Pierre Wener,Consumer,2,24,7186.15,1837.42,5,4,3,12,Champions
+PW-9030,Pauline Webber,Corporate,58,7,1080.99,-377.59999999999997,2,2,1,5,Lost
+PW-9240,Pierre Wener,Consumer,62,7,1237.53,104.88000000000001,2,2,1,5,Lost
+QJ-19255,Quincy Jones,Corporate,26,23,18192.93,2407.62,4,4,5,13,Champions
+QJ-9255,Quincy Jones,Corporate,62,5,387.04999999999995,-164.41000000000003,2,1,1,4,Lost
+RA-19285,Ralph Arnett,Consumer,6,24,16816.4,4132.89,5,4,5,14,Champions
+RA-19885,Ruben Ausman,Corporate,44,23,15435.51,3419.97,3,4,5,12,Loyal
+RA-19915,Russell Applegate,Consumer,13,27,20975.17,2078.7799999999997,4,4,5,13,Champions
+RA-19945,Ryan Akin,Consumer,2,23,11696.039999999999,678.9700000000001,5,4,4,13,Champions
+RA-9285,Ralph Arnett,Consumer,255,14,6226.68,-1519.83,1,3,3,7,At Risk
+RA-9885,Ruben Ausman,Corporate,126,8,503.26,-99.5,1,2,1,4,Lost
+RA-9915,Russell Applegate,Consumer,140,2,420.65999999999997,85.44,1,1,1,3,Lost
+RA-9945,Ryan Akin,Consumer,21,9,2044.59,217.77,4,3,2,9,Loyal
+RB-19330,Randy Bradley,Consumer,16,32,18359.76,3737.57,4,5,5,14,Champions
+RB-19360,Raymond Buch,Consumer,21,25,29197.649999999998,8523.949999999999,4,4,5,13,Champions
+RB-19435,Richard Bierner,Consumer,20,28,11618.06,605.42,4,5,4,13,Champions
+RB-19465,Rick Bensley,Home Office,1,36,17178.42,2769.65,5,5,5,15,Champions
+RB-19570,Rob Beeghly,Consumer,21,25,10961.61,1646.11,4,4,4,12,Champions
+RB-19645,Robert Barroso,Corporate,151,22,5973.61,754.3,1,4,3,8,At Risk
+RB-19705,Roger Barcio,Home Office,17,16,9288.09,2069.08,4,3,3,10,Loyal
+RB-19795,Ross Baird,Home Office,33,35,19056.88,2323.66,3,5,5,13,Loyal
+RB-9330,Randy Bradley,Consumer,113,8,4538.26,413.77,2,2,3,7,Lost
+RB-9360,Raymond Buch,Consumer,94,4,404.51,-70.89999999999999,2,1,1,4,Lost
+RB-9435,Richard Bierner,Consumer,217,6,3179.15,-1731.1,1,2,2,5,Lost
+RB-9465,Rick Bensley,Home Office,288,3,3675.2400000000002,1296.81,1,1,3,5,Lost
+RB-9570,Rob Beeghly,Consumer,447,5,586.77,-150.18000000000004,1,1,1,3,Lost
+RB-9645,Robert Barroso,Corporate,240,3,282.59000000000003,-114.16,1,1,1,3,Lost
+RB-9705,Roger Barcio,Home Office,150,12,6018.08,810.47,1,3,3,7,At Risk
+RB-9795,Ross Baird,Home Office,31,5,255.29,26.869999999999997,3,1,1,5,Needs Attention
+RC-19825,Roy Collins,Consumer,119,25,7916.67,737.74,2,4,3,9,At Risk
+RC-19960,Ryan Crowe,Consumer,23,22,7897.86,1758.06,4,4,3,11,Champions
+RC-9825,Roy Collins,Consumer,742,1,37.44,0.0,1,1,1,3,Lost
+RC-9960,Ryan Crowe,Consumer,113,5,1639.97,365.93,2,1,2,5,Lost
+RD-19480,Rick Duston,Consumer,1,27,16487.2,3316.93,5,5,5,15,Champions
+RD-19585,Rob Dowd,Consumer,26,31,16315.11,2450.58,4,5,5,14,Champions
+RD-19660,Robert Dilbeck,Home Office,94,21,12947.960000000001,3171.69,2,3,4,9,At Risk
+RD-19720,Roger Demir,Consumer,22,30,10902.51,1897.13,4,5,4,13,Champions
+RD-19810,Ross DeVincentis,Home Office,15,30,7091.1,1417.27,4,5,3,12,Champions
+RD-19900,Ruben Dartt,Consumer,33,29,13485.76,2475.09,3,5,4,12,Loyal
+RD-19930,Russell D'Ascenzo,Consumer,43,22,9293.61,683.39,3,4,3,10,Loyal
+RD-9480,Rick Duston,Consumer,48,6,1061.73,270.51,3,2,1,6,Needs Attention
+RD-9585,Rob Dowd,Consumer,36,7,5168.4,1469.4,3,2,3,8,Needs Attention
+RD-9660,Robert Dilbeck,Home Office,28,9,3391.79,794.18,3,3,3,9,Loyal
+RD-9720,Roger Demir,Consumer,59,8,3833.71,1139.89,2,2,3,7,Lost
+RD-9810,Ross DeVincentis,Home Office,54,7,3214.79,522.62,2,2,3,7,Lost
+RD-9900,Ruben Dartt,Consumer,93,10,4837.22,855.59,2,3,3,8,At Risk
+RD-9930,Russell D'Ascenzo,Consumer,29,11,6523.39,546.9700000000001,3,3,3,9,Loyal
+RE-19405,Ricardo Emerson,Consumer,29,21,12073.1,2356.02,3,3,4,10,Loyal
+RE-19450,Richard Eichhorn,Consumer,24,18,10660.5,1501.19,4,3,4,11,Loyal
+RE-9405,Ricardo Emerson,Consumer,72,6,1967.4,287.67,2,2,2,6,Lost
+RE-9450,Richard Eichhorn,Consumer,16,12,5678.71,890.23,4,3,3,10,Loyal
+RF-19345,Randy Ferguson,Corporate,65,27,13391.26,2277.36,2,5,4,11,At Risk
+RF-19735,Roland Fjeld,Consumer,2,23,12139.09,824.7499999999999,5,4,4,13,Champions
+RF-19840,Roy Französisch,Consumer,7,31,15077.47,3052.16,5,5,5,15,Champions
+RF-9345,Randy Ferguson,Corporate,7,5,3208.03,816.58,5,1,3,9,Promising
+RF-9735,Roland Fjeld,Consumer,119,3,950.13,298.77,2,1,1,4,Lost
+RF-9840,Roy Französisch,Consumer,139,6,571.71,-210.45000000000002,1,2,1,4,Lost
+RH-19495,Rick Hansen,Consumer,25,28,13295.76,1457.3799999999999,4,5,4,13,Champions
+RH-19510,Rick Huthwaite,Home Office,21,25,11599.39,1800.98,4,4,4,12,Champions
+RH-19555,Ritsa Hightower,Consumer,8,21,8944.31,292.98999999999995,5,3,3,11,Loyal
+RH-19600,Rob Haberlin,Consumer,7,21,4629.7,329.74,5,3,3,11,Loyal
+RH-9495,Rick Hansen,Consumer,97,3,3057.21,393.51,2,1,2,5,Lost
+RH-9510,Rick Huthwaite,Home Office,701,7,1837.78,-136.34,1,2,2,5,Lost
+RH-9555,Ritsa Hightower,Consumer,27,8,8753.47,1709.8,3,2,3,8,Needs Attention
+RH-9600,Rob Haberlin,Consumer,174,8,3340.4700000000003,892.62,1,2,3,6,Lost
+RK-19300,Ralph Kennedy,Consumer,86,26,13480.92,-1673.58,2,4,4,10,At Risk
+RK-9300,Ralph Kennedy,Consumer,29,4,519.12,117.78,3,1,1,5,Needs Attention
+RL-19615,Rob Lucas,Consumer,121,23,14866.83,2337.15,2,4,5,11,At Risk
+RL-9615,Rob Lucas,Consumer,266,8,2420.21,366.83,1,2,2,5,Lost
+RM-19375,Raymond Messe,Consumer,19,25,16077.66,1331.51,4,4,5,13,Champions
+RM-19675,Robert Marley,Home Office,5,19,11151.97,2810.52,5,3,4,12,Loyal
+RM-19750,Roland Murray,Consumer,17,19,6475.0,1314.86,4,3,3,10,Loyal
+RM-9375,Raymond Messe,Consumer,10,7,2239.45,523.9,5,2,2,9,Promising
+RM-9675,Robert Marley,Home Office,37,8,1715.1000000000001,-268.25999999999993,3,2,2,7,Needs Attention
+RM-9750,Roland Murray,Consumer,41,7,929.17,-64.55000000000001,3,2,1,6,Needs Attention
+RO-19780,Rose O'Brian,Consumer,36,29,18833.44,710.6800000000002,3,5,5,13,Loyal
+RO-9780,Rose O'Brian,Consumer,5,9,3080.1,158.19000000000003,5,3,2,10,Loyal
+RP-19270,Rachel Payne,Corporate,8,26,13725.62,1507.9,5,4,4,13,Champions
+RP-19390,Resi Pölking,Consumer,16,34,16114.89,-452.06000000000006,4,5,5,14,Champions
+RP-19855,Roy Phan,Corporate,22,27,11043.07,428.4000000000001,4,5,4,13,Champions
+RP-9270,Rachel Payne,Corporate,287,6,1274.35,394.81,1,2,1,4,Lost
+RP-9390,Resi Pölking,Consumer,271,7,5935.98,1520.46,1,2,3,6,Lost
+RP-9855,Roy Phan,Corporate,401,6,3569.14,-289.55,1,2,3,6,Lost
+RR-19315,Ralph Ritter,Consumer,20,21,11765.02,2304.35,4,3,4,11,Loyal
+RR-19525,Rick Reed,Corporate,1,27,15009.28,-99.15999999999991,5,5,5,15,Champions
+RR-9315,Ralph Ritter,Consumer,233,4,1820.85,534.6,1,1,2,4,Lost
+RR-9525,Rick Reed,Corporate,90,7,1376.92,51.190000000000005,2,2,2,6,Lost
+RS-19420,Ricardo Sperren,Corporate,77,28,14047.15,1771.03,2,5,4,11,At Risk
+RS-19765,Roland Schwarz,Corporate,37,25,13582.119999999999,3046.3199999999997,3,4,4,11,Loyal
+RS-19870,Roy Skaria,Home Office,20,20,7090.96,1222.8700000000001,4,3,3,10,Loyal
+RS-9420,Ricardo Sperren,Corporate,34,7,385.44,52.62,3,2,1,6,Needs Attention
+RS-9765,Roland Schwarz,Corporate,124,6,1524.1499999999999,425.85,2,2,2,6,Lost
+RS-9870,Roy Skaria,Home Office,21,8,1031.44,240.58,4,2,1,7,Promising
+RW-19540,Rick Wilson,Corporate,43,25,19423.69,3925.04,3,4,5,12,Loyal
+RW-19630,Rob Williams,Corporate,78,26,9425.92,1999.6299999999999,2,4,3,9,At Risk
+RW-19690,Robert Waldorf,Consumer,16,25,11200.14,2312.25,4,4,4,12,Champions
+RW-9540,Rick Wilson,Corporate,27,7,5698.43,1252.4,3,2,3,8,Needs Attention
+RW-9630,Rob Williams,Corporate,400,2,560.01,252.60000000000002,1,1,1,3,Lost
+RW-9690,Robert Waldorf,Consumer,99,8,1398.99,-175.26000000000002,2,2,2,6,Lost
+SA-10830,Sue Ann Reed,Consumer,11,10,872.68,-56.53999999999999,5,3,1,9,Loyal
+SA-20830,Sue Ann Reed,Consumer,64,30,15622.39,1411.25,2,5,5,12,At Risk
+SB-10170,Sarah Bern,Consumer,27,5,1647.24,24.06000000000001,3,1,2,6,Needs Attention
+SB-10185,Sarah Brown,Consumer,79,7,1268.44,223.29999999999998,2,2,1,5,Lost
+SB-10290,Sean Braxton,Corporate,192,5,1975.3999999999999,-120.66999999999999,1,1,2,4,Lost
+SB-20170,Sarah Bern,Consumer,3,15,12950.94,2342.92,5,3,4,12,Loyal
+SB-20185,Sarah Brown,Consumer,75,31,21034.46,1445.36,2,5,5,12,At Risk
+SB-20290,Sean Braxton,Corporate,42,22,18538.54,-1776.32,3,4,5,12,Loyal
+SC-10020,Sam Craven,Consumer,265,4,476.33,-115.51,1,1,1,3,Lost
+SC-10050,Sample Company A,Home Office,43,7,2311.85,358.85,3,2,2,7,Needs Attention
+SC-10095,Sanjit Chand,Consumer,226,7,918.51,99.15,1,2,1,4,Lost
+SC-10230,Scot Coram,Corporate,195,3,1793.9099999999999,286.32,1,1,2,4,Lost
+SC-10260,Scott Cohen,Corporate,142,7,3166.5099999999998,-42.89000000000004,1,2,2,5,Lost
+SC-10305,Sean Christensen,Consumer,17,7,3207.18,-213.14,4,2,3,9,Promising
+SC-10380,Shahid Collister,Consumer,276,4,1556.16,410.13,1,1,2,4,Lost
+SC-10440,Shaun Chance,Corporate,93,4,1929.07,-533.45,2,1,2,5,Lost
+SC-10575,Sonia Cooley,Consumer,374,2,328.02,41.64,1,1,1,3,Lost
+SC-10680,Steve Carroll,Home Office,190,4,6344.79,543.36,1,1,3,5,Lost
+SC-10695,Steve Chapman,Corporate,175,4,1468.89,-350.49,1,1,2,4,Lost
+SC-10725,Steven Cartwright,Consumer,92,7,2944.49,191.21,2,2,2,6,Lost
+SC-10770,Stewart Carmichael,Corporate,185,7,2033.21,-127.66000000000001,1,2,2,5,Lost
+SC-10800,Stuart Calhoun,Consumer,360,2,89.29,-77.83999999999999,1,1,1,3,Lost
+SC-10845,Sung Chung,Consumer,54,4,1368.1200000000001,261.65999999999997,2,1,1,4,Lost
+SC-20020,Sam Craven,Consumer,9,34,10579.48,1231.52,5,5,4,14,Champions
+SC-20050,Sample Company A,Home Office,41,30,16813.21,-340.43999999999994,3,5,5,13,Loyal
+SC-20095,Sanjit Chand,Consumer,76,28,25602.600000000002,8106.23,2,5,5,12,At Risk
+SC-20230,Scot Coram,Corporate,17,25,20333.88,2785.05,4,4,5,13,Champions
+SC-20260,Scott Cohen,Corporate,1,26,9366.19,1265.55,5,4,3,12,Champions
+SC-20305,Sean Christensen,Consumer,30,26,17696.72,675.43,3,4,5,12,Loyal
+SC-20380,Shahid Collister,Consumer,31,37,16122.710000000001,1282.25,3,5,5,13,Loyal
+SC-20440,Shaun Chance,Corporate,10,25,7677.45,890.46,5,4,3,12,Champions
+SC-20575,Sonia Cooley,Consumer,28,33,9685.43,896.37,3,5,3,11,Loyal
+SC-20680,Steve Carroll,Home Office,22,31,13477.05,1165.44,4,5,4,13,Champions
+SC-20695,Steve Chapman,Corporate,10,35,21931.03,2516.15,5,5,5,15,Champions
+SC-20725,Steven Cartwright,Consumer,8,30,13975.4,1874.81,5,5,4,14,Champions
+SC-20770,Stewart Carmichael,Corporate,41,32,14495.16,445.76000000000005,3,5,5,13,Loyal
+SC-20800,Stuart Calhoun,Consumer,31,24,11321.27,1354.2,3,4,4,11,Loyal
+SC-20845,Sung Chung,Consumer,9,24,9898.630000000001,1435.04,5,4,4,13,Champions
+SD-10485,Shirley Daniels,Home Office,41,8,1157.34,216.29999999999998,3,2,1,6,Needs Attention
+SD-20485,Shirley Daniels,Home Office,16,32,16802.07,3430.96,4,5,5,14,Champions
+SE-10110,Sanjit Engle,Consumer,79,3,613.71,152.16,2,1,1,4,Lost
+SE-20110,Sanjit Engle,Consumer,10,36,29532.63,5863.610000000001,5,5,5,15,Champions
+SF-10065,Sandra Flanagan,Consumer,230,8,3861.42,792.0,1,2,3,6,Lost
+SF-10200,Sarah Foster,Consumer,142,8,2633.32,-1384.4,1,2,2,5,Lost
+SF-10965,Sylvia Foulston,Corporate,181,6,2476.3,656.35,1,2,2,5,Lost
+SF-20065,Sandra Flanagan,Consumer,59,21,7395.74,1073.6499999999999,2,3,3,8,At Risk
+SF-20200,Sarah Foster,Consumer,6,28,13019.61,2214.16,5,5,4,14,Champions
+SF-20965,Sylvia Foulston,Corporate,49,17,6777.67,1238.83,3,3,3,9,Loyal
+SG-10080,Sandra Glassco,Consumer,370,6,1078.73,331.90999999999997,1,2,1,4,Lost
+SG-10470,Sheri Gordon,Consumer,129,3,3086.67,867.66,1,1,2,4,Lost
+SG-10605,Speros Goranitis,Consumer,234,6,2816.06,211.48999999999998,1,2,2,5,Lost
+SG-10890,Susan Gilcrest,Corporate,401,6,1424.78,301.01,1,2,2,5,Lost
+SG-20080,Sandra Glassco,Consumer,4,17,10774.51,2551.8,5,3,4,12,Loyal
+SG-20470,Sheri Gordon,Consumer,91,28,10730.28,1471.3300000000002,2,5,4,11,At Risk
+SG-20605,Speros Goranitis,Consumer,76,32,10128.53,1329.59,2,5,4,11,At Risk
+SG-20890,Susan Gilcrest,Corporate,17,22,11260.31,240.30999999999992,4,4,4,12,Champions
+SH-10395,Shahid Hopkins,Consumer,64,4,129.03,-52.83,2,1,1,4,Lost
+SH-10635,Stefanie Holloman,Corporate,159,4,658.98,129.87,1,1,1,3,Lost
+SH-19975,Sally Hughsby,Corporate,26,29,10893.52,987.2,4,5,4,13,Champions
+SH-20395,Shahid Hopkins,Consumer,24,33,12849.16,1112.08,4,5,4,13,Champions
+SH-20635,Stefanie Holloman,Corporate,31,25,13546.75,1848.32,3,4,4,11,Loyal
+SH-9975,Sally Hughsby,Corporate,65,8,8058.14,808.13,2,2,3,7,Lost
+SJ-10125,Sanjit Jacobs,Home Office,295,9,2961.19,364.63,1,3,2,6,At Risk
+SJ-10215,Sarah Jordon,Consumer,57,9,1359.25,179.05,2,3,1,6,At Risk
+SJ-10500,Shirley Jackson,Consumer,275,3,454.07000000000005,34.58,1,1,1,3,Lost
+SJ-20125,Sanjit Jacobs,Home Office,33,30,10562.08,1463.37,3,5,4,12,Loyal
+SJ-20215,Sarah Jordon,Consumer,29,32,14709.69,2332.79,3,5,5,13,Loyal
+SJ-20500,Shirley Jackson,Consumer,176,26,12930.78,1547.22,1,4,4,9,At Risk
+SK-19990,Sally Knutson,Consumer,9,19,10932.98,2320.06,5,3,4,12,Loyal
+SK-9990,Sally Knutson,Consumer,31,7,2358.86,655.46,3,2,2,7,Needs Attention
+SL-10155,Sara Luxemburg,Home Office,167,14,2451.7799999999997,655.74,1,3,2,6,At Risk
+SL-20155,Sara Luxemburg,Home Office,30,32,14380.7,1244.21,3,5,5,13,Loyal
+SM-10005,Sally Matthias,Consumer,105,8,6262.38,1177.8899999999999,2,2,3,7,Lost
+SM-10320,Sean Miller,Home Office,77,7,4045.63,673.96,2,2,3,7,Lost
+SM-10905,Susan MacKendrick,Consumer,133,5,1711.99,247.78,1,1,2,4,Lost
+SM-10950,Suzanne McNair,Corporate,105,9,1336.31,161.42,2,3,1,6,At Risk
+SM-20005,Sally Matthias,Consumer,148,22,6801.58,350.47,1,4,3,8,At Risk
+SM-20320,Sean Miller,Home Office,22,21,31125.33,-1083.6699999999998,4,3,5,12,Loyal
+SM-20905,Susan MacKendrick,Consumer,38,17,6918.4800000000005,1280.48,3,3,3,9,Loyal
+SM-20950,Suzanne McNair,Corporate,26,29,11552.79,1009.4399999999999,4,5,4,13,Champions
+SN-10560,Skye Norling,Home Office,14,6,1480.1000000000001,-110.86,4,2,2,8,Promising
+SN-10710,Steve Nguyen,Home Office,253,4,702.24,89.4,1,1,1,3,Lost
+SN-20560,Skye Norling,Home Office,72,25,12738.72,-2527.12,2,4,4,10,At Risk
+SN-20710,Steve Nguyen,Home Office,45,24,12703.93,2295.43,3,4,4,11,Loyal
+SO-10335,Sean O'Donnell,Consumer,401,4,831.5,17.42,1,1,1,3,Lost
+SO-20335,Sean O'Donnell,Consumer,30,27,15534.95,2389.63,3,5,5,13,Loyal
+SP-10545,Sibella Parks,Corporate,19,4,418.32,51.09,4,1,1,6,Promising
+SP-10620,Stefania Perrino,Corporate,140,5,299.56,-225.02000000000004,1,1,1,3,Lost
+SP-10650,Stephanie Phelps,Corporate,170,6,770.9,-56.47000000000001,1,2,1,4,Lost
+SP-10860,Sung Pak,Corporate,399,2,503.5,62.14,1,1,1,3,Lost
+SP-10920,Susan Pistek,Consumer,108,4,896.39,-165.21999999999997,2,1,1,4,Lost
+SP-20545,Sibella Parks,Corporate,17,20,6801.19,698.1400000000001,4,3,3,10,Loyal
+SP-20620,Stefania Perrino,Corporate,6,31,19113.68,242.06000000000006,5,5,5,15,Champions
+SP-20650,Stephanie Phelps,Corporate,21,24,10377.86,1739.27,4,4,4,12,Champions
+SP-20860,Sung Pak,Corporate,55,26,12994.56,1688.53,2,4,4,10,At Risk
+SP-20920,Susan Pistek,Consumer,7,28,28124.21,6649.63,5,5,5,15,Champions
+SR-10425,Sharelle Roach,Home Office,45,5,281.2,-6.469999999999999,3,1,1,5,Needs Attention
+SR-10740,Steven Roelle,Home Office,22,4,2154.12,291.27,4,1,2,7,Promising
+SR-20425,Sharelle Roach,Home Office,9,19,12721.25,-2544.7200000000003,5,3,4,12,Loyal
+SR-20740,Steven Roelle,Home Office,24,33,17220.19,4096.1,4,5,5,14,Champions
+SS-10140,Saphhira Shifley,Corporate,30,7,3491.63,905.39,3,2,3,8,Needs Attention
+SS-10410,Shahid Shariari,Consumer,27,10,2348.46,318.63,3,3,2,8,Loyal
+SS-10515,Shirley Schmidt,Home Office,675,3,424.53,130.38,1,1,1,3,Lost
+SS-10590,Sonia Sunley,Consumer,29,3,940.38,354.18,3,1,1,5,Needs Attention
+SS-10875,Sung Shariari,Consumer,251,4,556.32,-707.82,1,1,1,3,Lost
+SS-20140,Saphhira Shifley,Corporate,16,32,20138.579999999998,-1517.7500000000002,4,5,5,14,Champions
+SS-20410,Shahid Shariari,Consumer,34,27,15759.49,-187.10000000000005,3,5,5,13,Loyal
+SS-20515,Shirley Schmidt,Home Office,1,19,7480.64,285.97,5,3,3,11,Loyal
+SS-20590,Sonia Sunley,Consumer,6,26,12181.43,2015.9499999999998,5,4,4,13,Champions
+SS-20875,Sung Shariari,Consumer,15,21,4772.13,147.85000000000002,4,3,3,10,Loyal
+ST-10530,Shui Tom,Consumer,96,6,943.26,159.54,2,2,1,5,Lost
+ST-20530,Shui Tom,Consumer,7,32,14064.02,2074.59,5,5,4,14,Champions
+SU-10665,Stephanie Ulpright,Home Office,49,6,3331.14,564.69,3,2,3,8,Needs Attention
+SU-20665,Stephanie Ulpright,Home Office,5,23,7442.47,-54.45000000000002,5,4,3,12,Champions
+SV-10365,Seth Vernon,Consumer,184,5,1256.47,258.25,1,1,1,3,Lost
+SV-10785,Stewart Visinsky,Consumer,22,7,2969.43,260.85,4,2,2,8,Promising
+SV-10815,Stuart Van,Corporate,9,9,7728.92,-537.13,5,3,3,11,Loyal
+SV-10935,Susan Vittorini,Consumer,12,3,487.75,-331.69,4,1,1,6,Promising
+SV-20365,Seth Vernon,Consumer,88,31,22376.44,1964.5400000000002,2,5,5,12,At Risk
+SV-20785,Stewart Visinsky,Consumer,23,27,14262.93,1921.91,4,5,5,14,Champions
+SV-20815,Stuart Van,Corporate,35,24,14575.52,1515.82,3,4,5,12,Loyal
+SV-20935,Susan Vittorini,Consumer,1,28,15197.69,1000.19,5,5,5,15,Champions
+SW-10245,Scot Wooten,Consumer,23,4,1901.91,325.59,4,1,2,7,Promising
+SW-10275,Scott Williamson,Consumer,50,5,1480.5800000000002,159.26000000000002,2,1,2,5,Lost
+SW-10350,Sean Wendt,Home Office,101,9,1244.45,-4.900000000000004,2,3,1,6,At Risk
+SW-10455,Shaun Weien,Consumer,8,9,2205.25,399.37,5,3,2,10,Loyal
+SW-10755,Steven Ward,Corporate,44,7,2346.91,499.03,3,2,2,7,Needs Attention
+SW-20245,Scot Wooten,Consumer,13,26,13576.68,1622.78,4,4,4,12,Champions
+SW-20275,Scott Williamson,Consumer,22,33,15564.97,884.92,4,5,5,14,Champions
+SW-20350,Sean Wendt,Home Office,13,21,6923.26,1036.44,4,3,3,10,Loyal
+SW-20455,Shaun Weien,Consumer,8,22,6038.0,764.17,5,4,3,12,Champions
+SW-20755,Steven Ward,Corporate,16,31,23321.579999999998,2295.71,4,5,5,14,Champions
+SZ-10035,Sam Zeldin,Home Office,957,4,1164.15,130.62,1,1,1,3,Lost
+SZ-20035,Sam Zeldin,Home Office,14,37,15192.4,2785.25,4,5,5,14,Champions
+TA-11385,Tom Ashbrook,Home Office,9,5,4819.95,36.990000000000066,5,1,3,9,Promising
+TA-21385,Tom Ashbrook,Home Office,19,25,35668.14,6275.009999999999,4,4,5,13,Champions
+TB-11055,Ted Butterfield,Consumer,325,3,2355.14,533.06,1,1,2,4,Lost
+TB-11175,Thomas Boland,Corporate,217,4,850.32,175.35,1,1,1,3,Lost
+TB-11190,Thomas Brumley,Home Office,115,4,1115.3700000000001,179.49,2,1,1,4,Lost
+TB-11250,Tim Brockman,Consumer,2,15,7270.83,656.01,5,3,3,11,Loyal
+TB-11280,Toby Braunhardt,Consumer,157,9,1574.33,193.04,1,3,2,6,At Risk
+TB-11355,Todd Boyes,Corporate,15,8,438.15,-321.99,4,2,1,7,Promising
+TB-11400,Tom Boeckenhauer,Consumer,112,9,3103.3199999999997,724.59,2,3,2,7,At Risk
+TB-11520,Tracy Blumstein,Consumer,19,11,3991.52,455.45000000000005,4,3,3,10,Loyal
+TB-11595,Troy Blackwell,Consumer,163,4,752.0699999999999,219.63,1,1,1,3,Lost
+TB-11625,Trudy Brown,Consumer,399,5,1810.74,-366.87,1,1,2,4,Lost
+TB-21055,Ted Butterfield,Consumer,36,29,13671.72,1026.22,3,5,4,12,Loyal
+TB-21175,Thomas Boland,Corporate,40,27,16573.6,2111.07,3,5,5,13,Loyal
+TB-21190,Thomas Brumley,Home Office,50,17,10686.48,1872.8400000000001,2,3,4,9,At Risk
+TB-21250,Tim Brockman,Consumer,3,28,11830.08,2409.66,5,5,4,14,Champions
+TB-21280,Toby Braunhardt,Consumer,58,26,10127.03,1054.44,2,4,4,10,At Risk
+TB-21355,Todd Boyes,Corporate,55,20,9205.11,1093.97,2,3,3,8,At Risk
+TB-21400,Tom Boeckenhauer,Consumer,26,26,21376.0,3471.7599999999998,4,4,5,13,Champions
+TB-21520,Tracy Blumstein,Consumer,31,34,16716.75,-198.07999999999993,3,5,5,13,Loyal
+TB-21595,Troy Blackwell,Consumer,29,26,8438.02,1219.04,3,4,3,10,Loyal
+TB-21625,Trudy Brown,Consumer,31,31,13266.23,1867.51,3,5,4,12,Loyal
+TC-10980,Tamara Chand,Corporate,48,8,3239.06,-114.58000000000001,3,3,3,9,Loyal
+TC-11145,Theresa Coyne,Corporate,13,10,3799.92,1228.8,4,3,3,10,Loyal
+TC-11295,Toby Carlisle,Consumer,13,5,730.91,233.93,4,1,1,6,Promising
+TC-11475,Tony Chapman,Home Office,205,9,1907.75,219.86,1,3,2,6,At Risk
+TC-11535,Tracy Collins,Home Office,371,4,2214.98,-1355.65,1,1,2,4,Lost
+TC-20980,Tamara Chand,Corporate,28,28,34218.28,8787.47,3,5,5,13,Loyal
+TC-21145,Theresa Coyne,Corporate,12,25,18419.97,2131.03,4,4,5,13,Champions
+TC-21295,Toby Carlisle,Consumer,28,29,19391.91,1263.5600000000002,3,5,5,13,Loyal
+TC-21475,Tony Chapman,Home Office,2,29,10722.539999999999,1181.26,5,5,4,14,Champions
+TC-21535,Tracy Collins,Home Office,1,30,8888.04,1738.66,5,5,3,13,Champions
+TD-10995,Tamara Dahlen,Consumer,181,3,780.38,-769.8000000000001,1,1,1,3,Lost
+TD-20995,Tamara Dahlen,Consumer,1,25,6924.2,-178.32,5,4,3,12,Champions
+TG-11310,Toby Gnade,Consumer,161,3,714.4200000000001,243.54,1,1,1,3,Lost
+TG-11640,Trudy Glocke,Consumer,31,9,4906.54,1106.26,3,3,3,9,Loyal
+TG-21310,Toby Gnade,Consumer,15,32,12305.24,2742.92,4,5,4,13,Champions
+TG-21640,Trudy Glocke,Consumer,6,33,13973.79,1989.97,5,5,4,14,Champions
+TH-11100,Thea Hendricks,Consumer,254,4,1856.19,364.71,1,1,2,4,Lost
+TH-11115,Thea Hudgings,Corporate,120,6,1870.17,490.35,2,2,2,6,Lost
+TH-11235,Tiffany House,Corporate,231,10,3901.3399999999997,549.5600000000001,1,3,3,7,At Risk
+TH-11550,Tracy Hopkins,Home Office,390,5,283.83,-24.209999999999997,1,1,1,3,Lost
+TH-21100,Thea Hendricks,Consumer,7,27,13684.88,1587.77,5,5,4,14,Champions
+TH-21115,Thea Hudgings,Corporate,44,25,13483.63,1775.33,3,4,4,11,Loyal
+TH-21235,Tiffany House,Corporate,9,26,12896.28,1106.72,5,4,4,13,Champions
+TH-21550,Tracy Hopkins,Home Office,6,26,12808.9,-709.5699999999999,5,4,4,13,Champions
+TM-11010,Tamara Manning,Consumer,243,3,300.67,-270.5,1,1,1,3,Lost
+TM-11490,Tony Molinari,Consumer,56,8,2063.03,-877.54,2,3,2,7,At Risk
+TM-21010,Tamara Manning,Consumer,65,27,14158.97,2198.63,2,5,4,11,At Risk
+TM-21490,Tony Molinari,Consumer,41,27,13908.85,2378.52,3,5,4,12,Loyal
+TN-11040,Tanja Norvell,Home Office,55,2,187.35,26.310000000000002,2,1,1,4,Lost
+TN-21040,Tanja Norvell,Home Office,23,29,9410.27,-732.49,4,5,3,12,Champions
+TP-11130,Theone Pippenger,Consumer,140,6,1261.46,109.49000000000001,1,2,1,4,Lost
+TP-11415,Tom Prescott,Consumer,642,4,1950.95,467.15,1,1,2,4,Lost
+TP-11565,Tracy Poddar,Corporate,104,5,857.37,145.17,2,1,1,4,Lost
+TP-21130,Theone Pippenger,Consumer,3,37,22697.59,1964.42,5,5,5,15,Champions
+TP-21415,Tom Prescott,Consumer,49,22,10926.71,-120.93999999999998,3,4,4,11,Loyal
+TP-21565,Tracy Poddar,Corporate,15,30,12429.76,1650.48,4,5,4,13,Champions
+TR-11325,Toby Ritter,Consumer,169,4,2395.7200000000003,669.88,1,1,2,4,Lost
+TR-21325,Toby Ritter,Consumer,2,22,10033.19,1767.02,5,4,4,13,Champions
+TS-11085,Thais Sissman,Consumer,220,8,1390.68,249.12,1,3,2,6,At Risk
+TS-11160,Theresa Swint,Corporate,106,5,1130.07,194.67,2,1,1,4,Lost
+TS-11205,Thomas Seio,Corporate,308,3,641.65,-0.8900000000000032,1,1,1,3,Lost
+TS-11340,Toby Swindell,Consumer,41,5,1631.32,225.84999999999997,3,1,2,6,Needs Attention
+TS-11370,Todd Sumrall,Corporate,19,10,4573.59,992.8199999999999,4,3,3,10,Loyal
+TS-11430,Tom Stivers,Corporate,119,7,5812.08,1811.97,2,2,3,7,Lost
+TS-11505,Tony Sayre,Consumer,288,4,2123.94,-157.50000000000009,1,1,2,4,Lost
+TS-11610,Troy Staebel,Consumer,176,5,2011.14,105.42,1,1,2,4,Lost
+TS-11655,Trudy Schmidt,Consumer,203,6,452.88,73.17,1,2,1,4,Lost
+TS-21085,Thais Sissman,Consumer,42,19,5395.2300000000005,860.4599999999999,3,3,3,9,Loyal
+TS-21160,Theresa Swint,Corporate,9,22,6805.96,939.37,5,4,3,12,Champions
+TS-21205,Thomas Seio,Corporate,27,32,13888.67,2350.48,3,5,4,12,Loyal
+TS-21340,Toby Swindell,Consumer,9,31,16997.04,2377.1,5,5,5,15,Champions
+TS-21370,Todd Sumrall,Corporate,37,27,23201.68,4101.16,3,5,5,13,Loyal
+TS-21430,Tom Stivers,Corporate,20,22,9532.92,553.0,4,4,3,11,Champions
+TS-21505,Tony Sayre,Consumer,12,27,17613.4,2306.8399999999997,4,5,5,14,Champions
+TS-21610,Troy Staebel,Consumer,21,30,20565.920000000002,1614.1299999999999,4,5,5,14,Champions
+TS-21655,Trudy Schmidt,Consumer,85,24,9525.46,952.44,2,4,3,9,At Risk
+TT-11070,Ted Trevino,Consumer,38,2,1572.33,621.96,3,1,2,6,Needs Attention
+TT-11220,Thomas Thornton,Consumer,6,9,1826.4,472.38,5,3,2,10,Loyal
+TT-11265,Tim Taslimi,Corporate,95,9,5049.04,1269.79,2,3,3,8,At Risk
+TT-11460,Tonja Turnell,Home Office,43,8,1649.78,-160.15,3,3,2,8,Loyal
+TT-21070,Ted Trevino,Consumer,15,31,15673.05,1698.41,4,5,5,14,Champions
+TT-21220,Thomas Thornton,Consumer,38,22,13224.58,1188.8700000000001,3,4,4,11,Loyal
+TT-21265,Tim Taslimi,Corporate,2,20,4730.63,15.040000000000003,5,3,3,11,Loyal
+TT-21460,Tonja Turnell,Home Office,13,32,18431.99,2390.94,4,5,5,14,Champions
+TW-11025,Tamara Willingham,Home Office,20,8,323.12,-137.86,4,3,1,8,Loyal
+TW-21025,Tamara Willingham,Home Office,42,27,13931.89,3412.9500000000003,3,5,4,12,Loyal
+TZ-11445,Tom Zandusky,Corporate,369,7,745.14,250.76999999999998,1,2,1,4,Lost
+TZ-11580,Tracy Zic,Consumer,49,5,403.01,-275.08,2,1,1,4,Lost
+TZ-21445,Tom Zandusky,Corporate,9,28,14601.67,116.71999999999994,5,5,5,15,Champions
+TZ-21580,Tracy Zic,Consumer,36,19,10455.51,194.95999999999987,3,3,4,10,Loyal
+VB-11745,Victoria Brennan,Corporate,5,4,783.63,190.82999999999998,5,1,1,7,Promising
+VB-21745,Victoria Brennan,Corporate,13,21,9961.05,717.74,4,3,4,11,Loyal
+VD-11670,Valerie Dominguez,Consumer,1,9,1230.05,-211.75,5,3,1,9,Loyal
+VD-21670,Valerie Dominguez,Consumer,37,21,14754.89,2243.7,3,3,5,11,Loyal
+VF-11715,Vicky Freymann,Home Office,95,4,602.35,4.719999999999997,2,1,1,4,Lost
+VF-21715,Vicky Freymann,Home Office,14,24,12000.140000000001,21.389999999999972,4,4,4,12,Champions
+VG-11790,Vivek Gonzalez,Consumer,148,4,386.17,47.44,1,1,1,3,Lost
+VG-11805,Vivek Grady,Corporate,136,4,1190.22,140.31,1,1,1,3,Lost
+VG-21790,Vivek Gonzalez,Consumer,111,27,9908.61,-411.87000000000006,2,5,4,11,At Risk
+VG-21805,Vivek Grady,Corporate,3,23,22573.37,3906.6000000000004,5,4,5,14,Champions
+VM-11685,Valerie Mitchum,Home Office,14,6,858.98,-94.96000000000001,4,2,1,7,Promising
+VM-11835,Vivian Mathis,Consumer,9,3,1270.4099999999999,338.07,5,1,1,7,Promising
+VM-21685,Valerie Mitchum,Home Office,33,32,13708.12,-1550.83,3,5,4,12,Loyal
+VM-21835,Vivian Mathis,Consumer,112,20,2621.82,318.85,2,3,2,7,At Risk
+VP-11730,Victor Preis,Home Office,29,4,432.01,-508.40000000000003,3,1,1,5,Needs Attention
+VP-11760,Victoria Pisteka,Corporate,237,3,1615.66,374.71,1,1,2,4,Lost
+VP-21730,Victor Preis,Home Office,31,29,11629.26,2741.2,3,5,4,12,Loyal
+VP-21760,Victoria Pisteka,Corporate,76,28,16935.6,2016.18,2,5,5,12,At Risk
+VS-11820,Vivek Sundaresam,Consumer,23,7,1136.21,126.53,4,2,1,7,Promising
+VS-21820,Vivek Sundaresam,Consumer,139,15,10275.789999999999,1460.09,1,3,4,8,At Risk
+VT-11700,Valerie Takahito,Home Office,31,7,1271.44,178.56,3,2,1,6,Needs Attention
+VT-21700,Valerie Takahito,Home Office,8,25,18099.31,912.2,5,4,5,14,Champions
+VW-11775,Victoria Wilson,Corporate,8,5,1253.17,252.48999999999998,5,1,1,7,Promising
+VW-21775,Victoria Wilson,Corporate,7,30,15785.37,41.890000000000065,5,5,5,15,Champions
+WB-11850,William Brown,Consumer,115,2,182.53,-146.6,2,1,1,4,Lost
+WB-21850,William Brown,Consumer,21,38,16704.65,2694.5,4,5,5,14,Champions
+XP-11865,Xylona Preis,Consumer,161,3,1011.8000000000001,65.15,1,1,1,3,Lost
+XP-21865,Xylona Preis,Consumer,44,27,11187.14,1239.56,3,5,4,12,Loyal
+YC-11895,Yoseph Carroll,Corporate,100,4,166.3,22.27,2,1,1,4,Lost
+YC-21895,Yoseph Carroll,Corporate,5,27,19998.07,4324.900000000001,5,5,5,15,Champions
+YS-11880,Yana Sorensen,Corporate,5,6,1328.83,358.81,5,2,1,8,Promising
+YS-21880,Yana Sorensen,Corporate,10,26,18703.6,3091.61,5,4,5,14,Champions
+ZC-11910,Zuschuss Carroll,Consumer,201,1,7.17,-15.57,1,1,1,3,Lost
+ZC-21910,Zuschuss Carroll,Consumer,4,37,28472.8,452.52,5,5,5,15,Champions
+ZD-11925,Zuschuss Donatelli,Consumer,4,9,2951.23,478.42,5,3,2,10,Loyal
+ZD-21925,Zuschuss Donatelli,Consumer,2,20,9479.34,-276.67999999999995,5,3,3,11,Loyal

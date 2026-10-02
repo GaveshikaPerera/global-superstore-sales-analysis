@@ -1,0 +1,7 @@
+rfm_segment,customers,avg_recency_days,avg_orders,total_revenue,total_profit,pct_of_customers,pct_of_revenue
+Champions,382,11.7,28.1,5752785.8,691607.8,24.0,45.5
+Loyal,370,27.8,20.7,3859625.3,465913.9,23.3,30.5
+At Risk,202,97.6,19.3,1859505.4,200712.4,12.7,14.7
+Lost,434,222.8,5.1,771867.3,62365.3,27.3,6.1
+Promising,118,12.4,6.0,243279.7,29074.8,7.4,1.9
+Needs Attention,84,37.9,6.1,155438.4,17782.5,5.3,1.2
